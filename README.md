@@ -25,7 +25,7 @@ These tables are what I consider the basic foundation tables. They are reference
 
 ###Complex Tables
 
-These tables are tables meant to bridge and connect others. The meat of the relational database. Their data is pure reference to other table primary keys. The .csv files for these are *much* easier to understand and edit.
+These tables are tables meant to bridge and connect others. The meat of the relational database. Their data is pure reference to other table primary keys. The .csv files for these are *much* easier to understand and edit, as they are refelctions of their source data, not of the raw IDs, like the .sql files are.
 
 - PokemonAbilities
 - PokemonEggMobes
