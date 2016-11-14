@@ -1,0 +1,3486 @@
+PokemonName,AbilityName,AbilityLevel
+Bulbasaur,Confidence,1
+Bulbasaur,Photosynthesis,1
+Bulbasaur,Chlorophyll,20
+Bulbasaur,Leaf Guard,20
+Bulbasaur,Courage,40
+Ivysaur,Confidence,1
+Ivysaur,Photosynthesis,1
+Ivysaur,Chlorophyll,20
+Ivysaur,Leaf Guard,20
+Ivysaur,Courage,40
+Venusaur,Confidence,1
+Venusaur,Photosynthesis,1
+Venusaur,Chlorophyll,20
+Venusaur,Aroma Veil,20
+Venusaur,Courage,40
+Chikorita,Aroma Veil,1
+Chikorita,Sap Sipper,1
+Chikorita,Leaf Guard,20
+Chikorita,Healer,20
+Chikorita,Courage,40
+Bayleef,Aroma Veil,1
+Bayleef,Sap Sipper,1
+Bayleef,Leaf Guard,20
+Bayleef,Healer,20
+Bayleef,Courage,40
+Meganium,Aroma Veil,1
+Meganium,Sap Sipper,1
+Meganium,Leaf Guard,20
+Meganium,Healer,20
+Meganium,Courage,40
+Treecko,Unburden,1
+Treecko,Leaf Guard,1
+Treecko,Marvel Scale,20
+Treecko,Covert,20
+Treecko,Courage,40
+Grovyle,Unburden,1
+Grovyle,Leaf Guard,1
+Grovyle,Marvel Scale,20
+Grovyle,Covert,20
+Grovyle,Courage,40
+Sceptile,Unburden,1
+Sceptile,Leaf Guard,1
+Sceptile,Marvel Scale,20
+Sceptile,Covert,20
+Sceptile,Courage,40
+Turtwig,Shell Armor,1
+Turtwig,Discipline,1
+Turtwig,Filter,20
+Turtwig,Sturdy,20
+Turtwig,Courage,40
+Grotle,Shell Armor,1
+Grotle,Discipline,1
+Grotle,Filter,20
+Grotle,Sturdy,20
+Grotle,Courage,40
+Torterra,Shell Armor,1
+Torterra,Discipline,1
+Torterra,Filter,20
+Torterra,Sturdy,20
+Torterra,Courage,40
+Snivy,Instinct,1
+Snivy,Intimidate,1
+Snivy,Chlorophyll,20
+Snivy,Contrary,20
+Snivy,Courage,40
+Servine,Instinct,1
+Servine,Intimidate,1
+Servine,Chlorophyll,20
+Servine,Contrary,20
+Servine,Courage,40
+Serperior,Instinct,1
+Serperior,Regal Challenge,1
+Serperior,Chlorophyll,20
+Serperior,Contrary,20
+Serperior,Courage,40
+Charmander,Flame Body,1
+Charmander,Rattled,1
+Charmander,Solar Power,20
+Charmander,White Flame,20
+Charmander,Courage,40
+Charmeleon,Flame Body,1
+Charmeleon,Rattled,1
+Charmeleon,Solar Power,20
+Charmeleon,White Flame,20
+Charmeleon,Courage,40
+Charizard,Flame Body,1
+Charizard,Rattled,1
+Charizard,Solar Power,20
+Charizard,White Flame,20
+Charizard,Courage,40
+Cyndaquil,Run Away,1
+Cyndaquil,Flame Body,1
+Cyndaquil,Celebrate,20
+Cyndaquil,Flash Fire,20
+Cyndaquil,Courage,40
+Quilava,Run Away,1
+Quilava,Flame Body,1
+Quilava,Celebrate,20
+Quilava,Flash Fire,20
+Quilava,Courage,40
+Typhlosion,Run Away,1
+Typhlosion,Flame Body,1
+Typhlosion,Heat Mirage,20
+Typhlosion,Flash Fire,20
+Typhlosion,Courage,40
+Torchic,Klutz,1
+Torchic,Flash Fire,1
+Torchic,Speed Boost,20
+Torchic,Moxie,20
+Torchic,Courage,40
+Combusken,Klutz,1
+Combusken,Flash Fire,1
+Combusken,Speed Boost,20
+Combusken,Moxie,20
+Combusken,Courage,40
+Blaziken,Klutz,1
+Blaziken,Flash Fire,1
+Blaziken,Speed Boost,20
+Blaziken,Moxie,20
+Blaziken,Courage,40
+Chimchar,Celebrate,1
+Chimchar,Flash Fire,1
+Chimchar,Iron Fist,20
+Chimchar,Decoy,20
+Chimchar,Courage,40
+Monferno,Celebrate,1
+Monferno,Flash Fire,1
+Monferno,Iron Fist,20
+Monferno,Decoy,20
+Monferno,Courage,40
+Infernape,Celebrate,1
+Infernape,Flash Fire,1
+Infernape,Iron Fist,20
+Infernape,Decoy,20
+Infernape,Courage,40
+Tepig,Gluttony,1
+Tepig,Thick Fat,1
+Tepig,Bodyguard,20
+Tepig,Reckless,20
+Tepig,Courage,40
+Pignite,Gluttony,1
+Pignite,Thick Fat,1
+Pignite,Bodyguard,20
+Pignite,Reckless,20
+Pignite,Courage,40
+Emboar,Gluttony,1
+Emboar,Thick Fat,1
+Emboar,Bodyguard,20
+Emboar,Reckless,20
+Emboar,Courage,40
+Squirtle,Shell Armor,1
+Squirtle,Overcoat,1
+Squirtle,Rain Dish,20
+Squirtle,Shell Shield,20
+Squirtle,Courage,40
+Wartortle,Shell Armor,1
+Wartortle,Overcoat,1
+Wartortle,Rain Dish,20
+Wartortle,Shell Shield,20
+Wartortle,Courage,40
+Blastoise,Shell Armor,1
+Blastoise,Overcoat,1
+Blastoise,Rain Dish,20
+Blastoise,Shell Cannon,20
+Blastoise,Courage,40
+Totodile,Frisk,1
+Totodile,Hyper Cutter,1
+Totodile,Strong Jaw,20
+Totodile,Sheer Force,20
+Totodile,Courage,40
+Croconaw,Frisk,1
+Croconaw,Hyper Cutter,1
+Croconaw,Strong Jaw,20
+Croconaw,Sheer Force,20
+Croconaw,Courage,40
+Feraligatr,Frisk,1
+Feraligatr,Hyper Cutter,1
+Feraligatr,Strong Jaw,20
+Feraligatr,Sheer Force,20
+Feraligatr,Courage,40
+Mudkip,Damp,1
+Mudkip,Dry Skin,1
+Mudkip,Own Tempo,20
+Mudkip,Mud Dweller,20
+Mudkip,Courage,40
+Marshtomp,Damp,1
+Marshtomp,Dry Skin,1
+Marshtomp,Own Tempo,20
+Marshtomp,Mud Dweller,20
+Marshtomp,Courage,40
+Swampert,Thrust,1
+Swampert,Dry Skin,1
+Swampert,Own Tempo,20
+Swampert,Mud Dweller,20
+Swampert,Courage,40
+Piplup,Klutz,1
+Piplup,Swift Swim,1
+Piplup,Pride,20
+Piplup,Defiant,20
+Piplup,Courage,40
+Prinplup,Klutz,1
+Prinplup,Swift Swim,1
+Prinplup,Pride,20
+Prinplup,Defiant,20
+Prinplup,Courage,40
+Empoleon,Confidence,1
+Empoleon,Swift Swim,1
+Empoleon,Pride,20
+Empoleon,Defiant,20
+Empoleon,Courage,40
+Oshawott,Hyper Cutter,1
+Oshawott,Inner Focus,1
+Oshawott,Shell Armor,20
+Oshawott,Parry,20
+Oshawott,Courage,40
+Dewott,Hyper Cutter,1
+Dewott,Inner Focus,1
+Dewott,Shell Armor,20
+Dewott,Parry,20
+Dewott,Courage,40
+Samurott,Hyper Cutter,1
+Samurott,Inner Focus,1
+Samurott,Shell Armor,20
+Samurott,Parry,20
+Samurott,Courage,40
+Caterpie,Shield Dust,1
+Caterpie,Run Away,20
+Caterpie,Silk Threads,20
+Caterpie,Suction Cups,20
+Caterpie,Run Up,40
+Metapod,Shed Skin,1
+Metapod,Battle Armor,20
+Metapod,Silk Threads,20
+Metapod,Magic Guard,20
+Metapod,Sturdy,40
+Butterfree,Compound Eyes,1
+Butterfree,Tinted Lens,20
+Butterfree,Keen Eye,20
+Butterfree,Flutter,20
+Butterfree,Blow Away,40
+Weedle,Shield Dust,1
+Weedle,Run Away,20
+Weedle,Silk Threads,20
+Weedle,Swarm,20
+Weedle,Poison Touch,40
+Kakuna,Shed Skin,1
+Kakuna,Battle Armor,20
+Kakuna,Silk Threads,20
+Kakuna,Magic Guard,20
+Kakuna,Sturdy,40
+Beedrill,Sniper,1
+Beedrill,Poison Touch,20
+Beedrill,Technician,20
+Beedrill,Swarm,20
+Beedrill,Vanguard,40
+Sewaddle,Leaf Gift,1
+Sewaddle,Silk Threads,20
+Sewaddle,Technician,20
+Sewaddle,Swarm,20
+Sewaddle,Fashion Designer,40
+Swadloon,Leaf Gift,1
+Swadloon,Silk Threads,20
+Swadloon,Technician,20
+Swadloon,Swarm,20
+Swadloon,Fashion Designer,40
+Leavanny,Leaf Gift,1
+Leavanny,Silk Threads,20
+Leavanny,Technician,20
+Leavanny,Swarm,20
+Leavanny,Fashion Designer,40
+Venipede,Poison Point,1
+Venipede,Run Up,1
+Venipede,Swarm,20
+Venipede,Vanguard,20
+Venipede,Speed Boost,40
+Whirlipede,Poison Point,1
+Whirlipede,Run Up,1
+Whirlipede,Swarm,20
+Whirlipede,Vanguard,20
+Whirlipede,Speed Boost,40
+Scolipede,Poison Point,1
+Scolipede,Run Up,1
+Scolipede,Swarm,20
+Scolipede,Vanguard,20
+Scolipede,Speed Boost,40
+Wurmple,Shield Dust,1
+Wurmple,Silk Threads,20
+Wurmple,Run Away,20
+Wurmple,Poison Point,20
+Wurmple,Suction Cups,40
+Silcoon,Shed Skin,1
+Silcoon,Silk Threads,20
+Silcoon,Battle Armor,20
+Silcoon,Overcoat,20
+Silcoon,Sturdy,40
+Beautifly,Pride,1
+Beautifly,Rivalry,20
+Beautifly,Cruelty,20
+Beautifly,Swarm,20
+Beautifly,Sap Sipper,40
+Cascoon,Shed Skin,1
+Cascoon,Silk Threads,20
+Cascoon,Battle Armor,20
+Cascoon,Overcoat,20
+Cascoon,Sturdy,40
+Dustox,Shield Dust,1
+Dustox,Compound Eyes,20
+Dustox,Grass Pelt,20
+Dustox,Flutter,20
+Dustox,Effect Spore,40
+Pidgey,Keen Eye,1
+Pidgey,Tangled Feet,1
+Pidgey,Big Pecks,20
+Pidgey,Blow Away,20
+Pidgey,Run Away,40
+Pidgeotto,Keen Eye,1
+Pidgeotto,Tangled Feet,1
+Pidgeotto,Big Pecks,20
+Pidgeotto,Blow Away,20
+Pidgeotto,Competitive,40
+Pidgeot,Keen Eye,1
+Pidgeot,Tangled Feet,1
+Pidgeot,Rocket,20
+Pidgeot,Blow Away,20
+Pidgeot,Competitive,40
+Togepi,Hustle,1
+Togepi,Serene Grace,1
+Togepi,Cute Charm,20
+Togepi,Gentle Vibe,20
+Togepi,Super Luck,40
+Togetic,Hustle,1
+Togetic,Serene Grace,1
+Togetic,Cute Charm,20
+Togetic,Gentle Vibe,20
+Togetic,Super Luck,40
+Togekiss,Hustle,1
+Togekiss,Serene Grace,1
+Togekiss,Cute Charm,20
+Togekiss,Gentle Vibe,20
+Togekiss,Super Luck,40
+Starly,Keen Eye,1
+Starly,Intimidate,1
+Starly,Big Pecks,20
+Starly,Run Up,20
+Starly,Reckless,40
+Staravia,Keen Eye,1
+Staravia,Intimidate,1
+Staravia,Big Pecks,20
+Staravia,Run Up,20
+Staravia,Reckless,40
+Staraptor,Keen Eye,1
+Staraptor,Intimidate,1
+Staraptor,Big Pecks,20
+Staraptor,Run Up,20
+Staraptor,Reckless,40
+Pidove,Big Pecks,1
+Pidove,Super Luck,1
+Pidove,Rivalry,20
+Pidove,Klutz,20
+Pidove,Lunchbox,40
+Tranquill,Big Pecks,1
+Tranquill,Super Luck,1
+Tranquill,Rivalry,20
+Tranquill,Klutz,20
+Tranquill,Lunchbox,40
+Unfezant,Big Pecks,1
+Unfezant,Super Luck,1
+Unfezant,Rivalry,20
+Unfezant,Klutz,20
+Unfezant,Frighten,40
+Unfezant,Rocket,40
+Nidoran (F),Poison Point,1
+Nidoran (F),Rivalry,1
+Nidoran (F),Hustle,20
+Nidoran (F),Celebrate,20
+Nidoran (F),Bodyguard,40
+Nidorina,Poison Point,1
+Nidorina,Rivalry,1
+Nidorina,Hustle,20
+Nidorina,Celebrate,20
+Nidorina,Bodyguard,40
+Nidoqueen,Poison Point,1
+Nidoqueen,Rivalry,1
+Nidoqueen,Hustle,20
+Nidoqueen,Sheer Force,20
+Nidoqueen,Bodyguard,40
+Nidoran (M),Poison Point,1
+Nidoran (M),Rivalry,1
+Nidoran (M),Hustle,20
+Nidoran (M),Celebrate,20
+Nidoran (M),Bodyguard,40
+Nidorino,Poison Point,1
+Nidorino,Rivalry,1
+Nidorino,Hustle,20
+Nidorino,Celebrate,20
+Nidorino,Bodyguard,40
+Nidoking,Poison Point,1
+Nidoking,Rivalry,1
+Nidoking,Hustle,20
+Nidoking,Sheer Force,20
+Nidoking,Bodyguard,40
+Zubat,Inner Focus,1
+Zubat,Infiltrator,1
+Zubat,Instinct,20
+Zubat,Insomnia,20
+Zubat,Vanguard,40
+Golbat,Inner Focus,1
+Golbat,Infiltrator,1
+Golbat,Instinct,20
+Golbat,Insomnia,20
+Golbat,Vanguard,40
+Crobat,Inner Focus,1
+Crobat,Infiltrator,1
+Crobat,Instinct,20
+Crobat,Insomnia,20
+Crobat,Vanguard,40
+Cleffa,Cute Charm,1
+Cleffa,Magic Guard,1
+Cleffa,Friend Guard,20
+Cleffa,Frisk,20
+Cleffa,Unaware,40
+Clefairy,Cute Charm,1
+Clefairy,Magic Guard,1
+Clefairy,Friend Guard,20
+Clefairy,Frisk,20
+Clefairy,Unaware,40
+Clefable,Cute Charm,1
+Clefable,Magic Guard,1
+Clefable,Friend Guard,20
+Clefable,Frisk,20
+Clefable,Unaware,40
+Igglybuff,Cute Charm,1
+Igglybuff,Oblivious,1
+Igglybuff,Friend Guard,20
+Igglybuff,Competitive,20
+Igglybuff,Exploit,40
+Jigglypuff,Cute Charm,1
+Jigglypuff,Lullaby,1
+Jigglypuff,Friend Guard,20
+Jigglypuff,Competitive,20
+Jigglypuff,Exploit,40
+Wigglytuff,Cute Charm,1
+Wigglytuff,Lullaby,1
+Wigglytuff,Frisk,20
+Wigglytuff,Competitive,20
+Wigglytuff,Exploit,40
+Happiny,Natural Cure,1
+Happiny,Serene Grace,1
+Happiny,Friend Guard,20
+Happiny,Healer,20
+Happiny,Blessed Touch,40
+Chansey,Natural Cure,1
+Chansey,Serene Grace,1
+Chansey,Friend Guard,20
+Chansey,Healer,20
+Chansey,Blessed Touch,40
+Blissey,Natural Cure,1
+Blissey,Serene Grace,1
+Blissey,Friend Guard,20
+Blissey,Healer,20
+Blissey,Blessed Touch,40
+Whismur,Soundproof,1
+Whismur,Rattled,20
+Whismur,Drown Out,20
+Whismur,Cute Charm,20
+Whismur,Vital Spirit,40
+Loudred,Soundproof,1
+Loudred,Scrappy,20
+Loudred,Drown Out,20
+Loudred,Intimidate,20
+Loudred,Vital Spirit,40
+Exploud,Soundproof,1
+Exploud,Scrappy,20
+Exploud,Drown Out,20
+Exploud,Intimidate,20
+Exploud,Vital Spirit,40
+Lillipup,Pickup,1
+Lillipup,Vital Spirit,1
+Lillipup,Sand Rush,20
+Lillipup,Run Away,20
+Lillipup,Scrappy,40
+Herdier,Intimidate,1
+Herdier,Vital Spirit,1
+Herdier,Sand Rush,20
+Herdier,Run Away,20
+Herdier,Scrappy,40
+Stoutland,Intimidate,1
+Stoutland,Vital Spirit,1
+Stoutland,Sand Rush,20
+Stoutland,Run Away,20
+Stoutland,Scrappy,40
+Porygon,Download,1
+Porygon,Trace,1
+Porygon,Analytic,20
+Porygon,Tolerance,20
+Porygon,Targeting System,40
+Porygon2,Download,1
+Porygon2,Trace,1
+Porygon2,Analytic,20
+Porygon2,Tolerance,20
+Porygon2,Targeting System,40
+Porygon-Z,Download,1
+Porygon-Z,Trace,1
+Porygon-Z,Analytic,20
+Porygon-Z,Tolerance,20
+Porygon-Z,Targeting System,40
+Slakoth,Truant,1
+Slakoth,Limber,20
+Slakoth,Oblivious,20
+Slakoth,Own Tempo,20
+Slakoth,Deep Sleep,40
+Vigoroth,Vital Spirit,1
+Vigoroth,Limber,20
+Vigoroth,Oblivious,20
+Vigoroth,Own Tempo,20
+Vigoroth,Vigor,40
+Slaking,Truant,1
+Slaking,Limber,20
+Slaking,Oblivious,20
+Slaking,Own Tempo,20
+Slaking,Deep Sleep,40
+Oddish,Photosynthesis,1
+Oddish,Run Away,1
+Oddish,Chlorophyll,20
+Oddish,Oblivious,20
+Oddish,Life Force,40
+Gloom,Effect Spore,1
+Gloom,Run Away,1
+Gloom,Stench,20
+Gloom,Oblivious,20
+Gloom,Life Force,40
+Vileplume,Effect Spore,1
+Vileplume,Hay Fever,1
+Vileplume,Stench,20
+Vileplume,Dust Cloud,20
+Vileplume,Life Force,40
+Bellossom,Photosynthesis,1
+Bellossom,Healer,1
+Bellossom,Chlorophyll,20
+Bellossom,Natural Cure,20
+Bellossom,Life Force,40
+Bellsprout,Limber,1
+Bellsprout,Gluttony,1
+Bellsprout,Chlorophyll,20
+Bellsprout,Spinning Dance,20
+Bellsprout,Sway,40
+Weepinbell,Limber,1
+Weepinbell,Gluttony,1
+Weepinbell,Chlorophyll,20
+Weepinbell,Crush Trap,20
+Weepinbell,Stench,40
+Victreebel,Limber,1
+Victreebel,Gluttony,1
+Victreebel,Chlorophyll,20
+Victreebel,Crush Trap,20
+Victreebel,Stench,40
+Hoppip,Infiltrator,1
+Hoppip,Photosynthesis,1
+Hoppip,Chlorophyll,20
+Hoppip,Leaf Guard,20
+Hoppip,Vanguard,40
+Skiploom,Infiltrator,1
+Skiploom,Photosynthesis,1
+Skiploom,Chlorophyll,20
+Skiploom,Leaf Guard,20
+Skiploom,Vanguard,40
+Jumpluff,Infiltrator,1
+Jumpluff,Photosynthesis,1
+Jumpluff,Chlorophyll,20
+Jumpluff,Leaf Guard,20
+Jumpluff,Vanguard,40
+Lotad,Swift Swim,1
+Lotad,Rain Dish,1
+Lotad,Own Tempo,20
+Lotad,Hydration,20
+Lotad,Rattled,40
+Lombre,Swift Swim,1
+Lombre,Rain Dish,1
+Lombre,Own Tempo,20
+Lombre,Hydration,20
+Lombre,Confidence,40
+Ludicolo,Swift Swim,1
+Ludicolo,Rain Dish,1
+Ludicolo,Own Tempo,20
+Ludicolo,Hydration,20
+Ludicolo,Confidence,40
+Seedot,Frighten,1
+Seedot,Early Bird,1
+Seedot,Pickpocket,20
+Seedot,Overcoat,20
+Seedot,Sturdy,40
+Nuzleaf,Frighten,1
+Nuzleaf,Early Bird,1
+Nuzleaf,Pickpocket,20
+Nuzleaf,Grass Pelt,20
+Nuzleaf,Intimidate,40
+Shiftry,Frighten,1
+Shiftry,Early Bird,1
+Shiftry,Pickpocket,20
+Shiftry,Grass Pelt,20
+Shiftry,Blow Away,40
+Budew,Poison Point,1
+Budew,Natural Cure,1
+Budew,Leaf Guard,20
+Budew,Cute Charm,20
+Budew,Technician,40
+Roselia,Poison Point,1
+Roselia,Natural Cure,1
+Roselia,Leaf Guard,20
+Roselia,Beautiful,20
+Roselia,Technician,40
+Roserade,Poison Point,1
+Roserade,Natural Cure,1
+Roserade,Leaf Guard,20
+Roserade,Beautiful,20
+Roserade,Technician,40
+Pichu,Static,1
+Pichu,Cute Charm,1
+Pichu,Lightning Rod,20
+Pichu,Sprint,20
+Pichu,Sequence,40
+Pikachu,Static,1
+Pikachu,Cute Charm,1
+Pikachu,Lightning Rod,20
+Pikachu,Sprint,20
+Pikachu,Sequence,40
+Raichu,Static,1
+Raichu,Motor Drive,1
+Raichu,Lightning Rod,20
+Raichu,Sprint,20
+Raichu,Sequence,40
+Magnemite,Magnet Pull,1
+Magnemite,Sturdy,1
+Magnemite,Analytic,20
+Magnemite,Soundproof,20
+Magnemite,Targeting System,40
+Magneton,Magnet Pull,1
+Magneton,Sturdy,1
+Magneton,Analytic,20
+Magneton,Soundproof,20
+Magneton,Targeting System,40
+Magnezone,Magnet Pull,1
+Magnezone,Sturdy,1
+Magnezone,Analytic,20
+Magnezone,Soundproof,20
+Magnezone,Targeting System,40
+Mareep,Static,1
+Mareep,Thunder Boost,1
+Mareep,Fluffy Charge,20
+Mareep,Sequence,20
+Mareep,Plus,40
+Flaaffy,Static,1
+Flaaffy,Thunder Boost,1
+Flaaffy,Fluffy Charge,20
+Flaaffy,Sequence,20
+Flaaffy,Plus,40
+Ampharos,Static,1
+Ampharos,Thunder Boost,1
+Ampharos,Illuminate,20
+Ampharos,Sequence,20
+Ampharos,Plus,40
+Shinx,Intimidate,1
+Shinx,Rivalry,1
+Shinx,Sequence,20
+Shinx,Celebrate,20
+Shinx,Guts,40
+Luxio,Intimidate,1
+Luxio,Rivalry,1
+Luxio,Sequence,20
+Luxio,Celebrate,20
+Luxio,Guts,40
+Luxray,Intimidate,1
+Luxray,Rivalry,1
+Luxray,Sequence,20
+Luxray,Celebrate,20
+Luxray,Guts,40
+Tynamo,Levitate,1
+Tynamo,Twisted Power,20
+Tynamo,Storm Drain,20
+Tynamo,Lightning Rod,20
+Tynamo,Run Up,40
+Eelektrik,Levitate,1
+Eelektrik,Twisted Power,20
+Eelektrik,Storm Drain,20
+Eelektrik,Lightning Rod,20
+Eelektrik,Run Up,40
+Eelektross,Levitate,1
+Eelektross,Twisted Power,20
+Eelektross,Storm Drain,20
+Eelektross,Lightning Rod,20
+Eelektross,Run Up,40
+Elekid,Static,1
+Elekid,Inner Focus,1
+Elekid,Vital Spirit,20
+Elekid,Motor Drive,20
+Elekid,Thunder Boost,40
+Electabuzz,Static,1
+Electabuzz,Inner Focus,1
+Electabuzz,Vital Spirit,20
+Electabuzz,Motor Drive,20
+Electabuzz,Thunder Boost,40
+Electivire,Static,1
+Electivire,Inner Focus,1
+Electivire,Vital Spirit,20
+Electivire,Motor Drive,20
+Electivire,Thunder Boost,40
+Magby,Flame Body,1
+Magby,Oblivious,1
+Magby,Vital Spirit,20
+Magby,Flash Fire,20
+Magby,Ignition Boost,40
+Magmar,Flame Body,1
+Magmar,Oblivious,1
+Magmar,Vital Spirit,20
+Magmar,Flash Fire,20
+Magmar,Ignition Boost,40
+Magmortar,Flame Body,1
+Magmortar,Oblivious,1
+Magmortar,Vital Spirit,20
+Magmortar,Flash Fire,20
+Magmortar,Ignition Boost,40
+Poliwag,Damp,1
+Poliwag,Water Absorb,1
+Poliwag,Swift Swim,20
+Poliwag,Gulp,20
+Poliwag,Hypnotic,40
+Poliwhirl,Damp,1
+Poliwhirl,Water Absorb,1
+Poliwhirl,Swift Swim,20
+Poliwhirl,Run Away,20
+Poliwhirl,Hypnotic,40
+Poliwrath,Damp,1
+Poliwrath,Water Absorb,1
+Poliwrath,Swift Swim,20
+Poliwrath,Guts,20
+Poliwrath,Hypnotic,40
+Politoed,Damp,1
+Politoed,Water Absorb,1
+Politoed,Wash Away,20
+Politoed,Drizzle,20
+Politoed,Hypnotic,40
+Azurill,Thick Fat,1
+Azurill,Aqua Boost,20
+Azurill,Huge Power,20
+Azurill,Sap Sipper,20
+Azurill,Wave Rider,40
+Marill,Thick Fat,1
+Marill,Aqua Boost,20
+Marill,Huge Power,20
+Marill,Sap Sipper,20
+Marill,Wave Rider,40
+Azumarill,Thick Fat,1
+Azumarill,Aqua Boost,20
+Azumarill,Huge Power,20
+Azumarill,Sap Sipper,20
+Azumarill,Wave Rider,40
+Tympole,Water Absorb,1
+Tympole,Mud Dweller,1
+Tympole,Swift Swim,20
+Tympole,Hydration,20
+Tympole,Refreshing Veil,40
+Palpitoad,Water Absorb,1
+Palpitoad,Mud Dweller,1
+Palpitoad,Swift Swim,20
+Palpitoad,Hydration,20
+Palpitoad,Refreshing Veil,40
+Seismitoad,Water Absorb,1
+Seismitoad,Mud Dweller,1
+Seismitoad,Swift Swim,20
+Seismitoad,Poison Touch,20
+Seismitoad,Refreshing Veil,40
+Horsea,Sniper,1
+Horsea,Damp,20
+Horsea,Swift Swim,20
+Horsea,Multiscale,20
+Horsea,Spray Down,40
+Seadra,Sniper,1
+Seadra,Damp,20
+Seadra,Swift Swim,20
+Seadra,Multiscale,20
+Seadra,Spray Down,40
+Kingdra,Sniper,1
+Kingdra,Damp,20
+Kingdra,Poison Point,20
+Kingdra,Multiscale,20
+Kingdra,Spray Down,40
+Spheal,Thick Fat,1
+Spheal,Ice Body,20
+Spheal,Oblivious,20
+Spheal,Deep Sleep,20
+Spheal,Snow Cloak,40
+Sealeo,Thick Fat,1
+Sealeo,Ice Body,20
+Sealeo,Oblivious,20
+Sealeo,Deep Sleep,20
+Sealeo,Snow Cloak,40
+Walrein,Thick Fat,1
+Walrein,Ice Body,20
+Walrein,Oblivious,20
+Walrein,Deep Sleep,20
+Walrein,Snow Cloak,40
+Vanillite,Ice Body,1
+Vanillite,Snow Cloak,1
+Vanillite,Weak Armor,20
+Vanillite,Winter's Kiss,20
+Vanillite,Clear Body,40
+Vanillish,Ice Body,1
+Vanillish,Snow Cloak,1
+Vanillish,Weak Armor,20
+Vanillish,Winter's Kiss,20
+Vanillish,Clear Body,40
+Vanilluxe,Ice Body,1
+Vanilluxe,Snow Cloak,1
+Vanilluxe,Weak Armor,20
+Vanilluxe,Winter's Kiss,20
+Vanilluxe,Clear Body,40
+Ralts,Synchronize,1
+Ralts,Trace,1
+Ralts,Telepathy,20
+Ralts,Forewarn,20
+Ralts,Instinct,40
+Kirlia,Synchronize,1
+Kirlia,Trace,1
+Kirlia,Telepathy,20
+Kirlia,Forewarn,20
+Kirlia,Instinct,40
+Gardevoir,Synchronize,1
+Gardevoir,Trace,1
+Gardevoir,Telepathy,20
+Gardevoir,Forewarn,20
+Gardevoir,Instinct,40
+Gallade,Synchronize,1
+Gallade,Steadfast,1
+Gallade,Telepathy,20
+Gallade,Justified,20
+Gallade,Vanguard,40
+Abra,Synchronize,1
+Abra,Inner Focus,1
+Abra,Transporter,20
+Abra,Magic Guard,20
+Abra,Life Force,40
+Kadabra,Synchronize,1
+Kadabra,Inner Focus,1
+Kadabra,Transporter,20
+Kadabra,Magic Guard,20
+Kadabra,Life Force,40
+Alakazam,Synchronize,1
+Alakazam,Inner Focus,1
+Alakazam,Transporter,20
+Alakazam,Magic Guard,20
+Alakazam,Life Force,40
+Gothita,Frisk,1
+Gothita,Competitive,1
+Gothita,Cute Tears,20
+Gothita,Telepathy,20
+Gothita,Shadow Tag,40
+Gothorita,Frisk,1
+Gothorita,Competitive,1
+Gothorita,Cute Tears,20
+Gothorita,Telepathy,20
+Gothorita,Shadow Tag,40
+Gothitelle,Frisk,1
+Gothitelle,Competitive,1
+Gothitelle,Cute Tears,20
+Gothitelle,Telepathy,20
+Gothitelle,Shadow Tag,40
+Solosis,Overcoat,1
+Solosis,Sticky Hold,20
+Solosis,Levitate,20
+Solosis,Regenerator,20
+Solosis,Defy Death,40
+Duosion,Overcoat,1
+Duosion,Sticky Hold,20
+Duosion,Levitate,20
+Duosion,Regenerator,20
+Duosion,Defy Death,40
+Reuniclus,Magic Guard,1
+Reuniclus,Sticky Hold,20
+Reuniclus,Levitate,20
+Reuniclus,Regenerator,20
+Reuniclus,Defy Death,40
+Machop,Guts,1
+Machop,Steadfast,1
+Machop,Bodyguard,20
+Machop,Discipline,20
+Machop,No Guard,40
+Machoke,Guts,1
+Machoke,Steadfast,1
+Machoke,Bodyguard,20
+Machoke,Discipline,20
+Machoke,No Guard,40
+Machamp,Guts,1
+Machamp,Steadfast,1
+Machamp,Bodyguard,20
+Machamp,Discipline,20
+Machamp,No Guard,40
+Timburr,Guts,1
+Timburr,Sheer Force,1
+Timburr,Thrust,20
+Timburr,Hustle,20
+Timburr,Iron Fist,40
+Gurdurr,Guts,1
+Gurdurr,Sheer Force,1
+Gurdurr,Thrust,20
+Gurdurr,Hustle,20
+Gurdurr,Iron Fist,40
+Conkeldurr,Guts,1
+Conkeldurr,Sheer Force,1
+Conkeldurr,Thrust,20
+Conkeldurr,Hustle,20
+Conkeldurr,Iron Fist,40
+Geodude,Levitate,1
+Geodude,Sand Veil,20
+Geodude,Sturdy,20
+Geodude,Bulletproof,20
+Geodude,Rock Head,40
+Graveler,Run Up,1
+Graveler,Sand Veil,20
+Graveler,Sturdy,20
+Graveler,Bulletproof,20
+Graveler,Rock Head,40
+Golem,Run Up,1
+Golem,Solid Rock,20
+Golem,Sturdy,20
+Golem,Bulletproof,20
+Golem,Rock Head,40
+Roggenrola,Sturdy,1
+Roggenrola,Sand Rush,20
+Roggenrola,Sand Force,20
+Roggenrola,Sand Veil,20
+Roggenrola,Run Up,40
+Boldore,Sturdy,1
+Boldore,Sand Rush,20
+Boldore,Sand Force,20
+Boldore,Sand Veil,20
+Boldore,Solar Power,40
+Gigalith,Sturdy,1
+Gigalith,Sand Rush,20
+Gigalith,Sand Force,20
+Gigalith,Sand Veil,20
+Gigalith,Solar Power,40
+Rhyhorn,Lightning Rod,1
+Rhyhorn,Solid Rock,1
+Rhyhorn,Reckless,20
+Rhyhorn,Rock Head,20
+Rhyhorn,Run Up,40
+Rhydon,Lightning Rod,1
+Rhydon,Solid Rock,1
+Rhydon,Reckless,20
+Rhydon,Rock Head,20
+Rhydon,Run Up,40
+Rhyperior,Lightning Rod,1
+Rhyperior,Solid Rock,1
+Rhyperior,Flash Fire,20
+Rhyperior,Rock Head,20
+Rhyperior,Run Up,40
+Swinub,Oblivious,1
+Swinub,Snow Cloak,1
+Swinub,Thick Fat,20
+Swinub,Gluttony,20
+Swinub,Ice Body,40
+Piloswine,Oblivious,1
+Piloswine,Snow Cloak,1
+Piloswine,Thick Fat,20
+Piloswine,Gluttony,20
+Piloswine,Ice Body,40
+Mamoswine,Oblivious,1
+Mamoswine,Snow Cloak,1
+Mamoswine,Thick Fat,20
+Mamoswine,Gluttony,20
+Mamoswine,Ice Body,40
+Sandile,Intimidate,1
+Sandile,Moxie,1
+Sandile,Anger Point,20
+Sandile,Deep Sleep,20
+Sandile,Strong Jaw,40
+Krokorok,Intimidate,1
+Krokorok,Moxie,1
+Krokorok,Anger Point,20
+Krokorok,Deep Sleep,20
+Krokorok,Strong Jaw,40
+Krookodile,Intimidate,1
+Krookodile,Moxie,1
+Krookodile,Anger Point,20
+Krookodile,Deep Sleep,20
+Krookodile,Strong Jaw,40
+Aron,Bulletproof,1
+Aron,Sturdy,1
+Aron,Rock Head,20
+Aron,Solid Rock,20
+Aron,Heavy Metal,40
+Lairon,Bulletproof,1
+Lairon,Sturdy,1
+Lairon,Rock Head,20
+Lairon,Solid Rock,20
+Lairon,Heavy Metal,40
+Aggron,Bulletproof,1
+Aggron,Sturdy,1
+Aggron,Rock Head,20
+Aggron,Solid Rock,20
+Aggron,Heavy Metal,40
+Klink,Levitate,1
+Klink,Clear Body,20
+Klink,Plus,20
+Klink,Minus,20
+Klink,Early Bird,20
+Klink,Targeting System,40
+Klang,Levitate,1
+Klang,Clear Body,20
+Klang,Plus,20
+Klang,Minus,20
+Klang,Early Bird,20
+Klang,Targeting System,40
+Klinklang,Levitate,1
+Klinklang,Clear Body,20
+Klinklang,Plus,20
+Klinklang,Minus,20
+Klinklang,Early Bird,20
+Klinklang,Targeting System,40
+Gastly,Levitate,1
+Gastly,Frighten,20
+Gastly,Intimidate,20
+Gastly,Spiteful Intervention,20
+Gastly,Prankster,40
+Haunter,Levitate,1
+Haunter,Frighten,20
+Haunter,Intimidate,20
+Haunter,Spiteful Intervention,20
+Haunter,Prankster,40
+Gengar,Levitate,1
+Gengar,Frighten,20
+Gengar,Intimidate,20
+Gengar,Spiteful Intervention,20
+Gengar,Soulstealer,40
+Duskull,Levitate,1
+Duskull,Frighten,20
+Duskull,Interference,20
+Duskull,Frisk,20
+Duskull,Pressure,40
+Dusclops,Shackle,1
+Dusclops,Frighten,20
+Dusclops,Interference,20
+Dusclops,Frisk,20
+Dusclops,Pressure,40
+Dusknoir,Shackle,1
+Dusknoir,Frighten,20
+Dusknoir,Interference,20
+Dusknoir,Frisk,20
+Dusknoir,Pressure,40
+Litwick,Flash Fire,1
+Litwick,Flame Body,1
+Litwick,Illuminate,20
+Litwick,Soulstealer,20
+Litwick,Infiltrator,40
+Lampent,Flash Fire,1
+Lampent,Flame Body,1
+Lampent,Illuminate,20
+Lampent,Soulstealer,20
+Lampent,Infiltrator,40
+Chandelure,Flash Fire,1
+Chandelure,Flame Body,1
+Chandelure,Illuminate,20
+Chandelure,Soulstealer,20
+Chandelure,Infiltrator,40
+Trapinch,Arena Trap,1
+Trapinch,Hyper Cutter,20
+Trapinch,Strong Jaw,20
+Trapinch,Sheer Force,20
+Trapinch,No Guard,40
+Vibrava,Levitate,1
+Vibrava,Sand Veil,20
+Vibrava,Sand Rush,20
+Vibrava,Flutter,20
+Vibrava,Tinted Lens,40
+Flygon,Levitate,1
+Flygon,Sand Veil,20
+Flygon,Sand Rush,20
+Flygon,Flutter,20
+Flygon,Tinted Lens,40
+Axew,Rivalry,1
+Axew,Mold Breaker,1
+Axew,Unnerve,20
+Axew,Hyper Cutter,20
+Axew,Frighten,40
+Fraxure,Rivalry,1
+Fraxure,Mold Breaker,1
+Fraxure,Unnerve,20
+Fraxure,Hyper Cutter,20
+Fraxure,Frighten,40
+Haxorus,Rivalry,1
+Haxorus,Mold Breaker,1
+Haxorus,Unnerve,20
+Haxorus,Hyper Cutter,20
+Haxorus,Frighten,40
+Rattata,Run Away,1
+Rattata,Guts,1
+Rattata,Hustle,20
+Rattata,Instinct,20
+Rattata,Intimidate,40
+Raticate,Run Away,1
+Raticate,Guts,1
+Raticate,Hustle,20
+Raticate,Instinct,20
+Raticate,Intimidate,40
+Sentret,Run Away,1
+Sentret,Keen Eye,1
+Sentret,Frisk,20
+Sentret,Exploit,20
+Sentret,Dodge,40
+Furret,Run Away,1
+Furret,Keen Eye,1
+Furret,Frisk,20
+Furret,Exploit,20
+Furret,Dodge,40
+Zigzagoon,Pickup,1
+Zigzagoon,Gluttony,1
+Zigzagoon,Quick Feet,20
+Zigzagoon,Sprint,20
+Zigzagoon,Limber,40
+Linoone,Pickup,1
+Linoone,Gluttony,1
+Linoone,Quick Feet,20
+Linoone,Sprint,20
+Linoone,Limber,40
+Bidoof,Simple,1
+Bidoof,Unaware,1
+Bidoof,Deep Sleep,20
+Bidoof,Oblivious,20
+Bidoof,Moody,40
+Bibarel,Simple,1
+Bibarel,Unaware,1
+Bibarel,Deep Sleep,20
+Bibarel,Oblivious,20
+Bibarel,Moody,40
+Patrat,Run Away,1
+Patrat,Keen Eye,1
+Patrat,Analytic,20
+Patrat,Unnerve,20
+Patrat,Perception,40
+Watchog,Illuminate,1
+Watchog,Keen Eye,1
+Watchog,Analytic,20
+Watchog,Unnerve,20
+Watchog,Perception,40
+Meowth,Pickup,1
+Meowth,Technician,1
+Meowth,Unnerve,20
+Meowth,Limber,20
+Meowth,Defiant,40
+Persian,Pickup,1
+Persian,Technician,1
+Persian,Unnerve,20
+Persian,Limber,20
+Persian,Frighten,40
+Skitty,Cute Charm,1
+Skitty,Normalize,1
+Skitty,Celebrate,20
+Skitty,Wonder Skin,20
+Skitty,Conqueror,40
+Delcatty,Cute Charm,1
+Delcatty,Normalize,1
+Delcatty,Celebrate,20
+Delcatty,Wonder Skin,20
+Delcatty,Conqueror,40
+Glameow,Limber,1
+Glameow,Own Tempo,1
+Glameow,Cruelty,20
+Glameow,Keen Eye,20
+Glameow,Defiant,40
+Purugly,Limber,1
+Purugly,Own Tempo,1
+Purugly,Cruelty,20
+Purugly,Keen Eye,20
+Purugly,Defiant,40
+Minccino,Cute Charm,1
+Minccino,Helper,1
+Minccino,Confidence,20
+Minccino,Technician,20
+Minccino,Skill Link,40
+Cinccino,Cute Charm,1
+Cinccino,Helper,1
+Cinccino,Confidence,20
+Cinccino,Technician,20
+Cinccino,Skill Link,40
+Buneary,Cute Charm,1
+Buneary,Klutz,1
+Buneary,Limber,20
+Buneary,Vigor,20
+Buneary,Tangled Feet,40
+Lopunny,Cute Charm,1
+Lopunny,Klutz,1
+Lopunny,Limber,20
+Lopunny,Vigor,20
+Lopunny,Tangled Feet,40
+Snubbull,Intimidate,1
+Snubbull,Run Away,1
+Snubbull,Rattled,20
+Snubbull,Quick Feet,20
+Snubbull,Strong Jaw,40
+Granbull,Intimidate,1
+Granbull,Run Away,1
+Granbull,Rattled,20
+Granbull,Defeatist,20
+Granbull,Strong Jaw,40
+Aipom,Run Away,1
+Aipom,Pickup,1
+Aipom,Frisk,20
+Aipom,Pickpocket,20
+Aipom,Skill Link,40
+Ambipom,Run Away,1
+Ambipom,Pickup,1
+Ambipom,Frisk,20
+Ambipom,Pickpocket,20
+Ambipom,Skill Link,40
+Deerling,Sap Sipper,1
+Deerling,Chlorophyll,20
+Deerling,Serene Grace,20
+Deerling,Grass Pelt,40
+Sawsbuck,Sap Sipper,1
+Sawsbuck,Chlorophyll,20
+Sawsbuck,Serene Grace,20
+Sawsbuck,Grass Pelt,40
+Teddiursa,Pickup,1
+Teddiursa,Quick Feet,1
+Teddiursa,Deep Sleep,20
+Teddiursa,Honey Paws,20
+Teddiursa,Lunchbox,40
+Ursaring,Guts,1
+Ursaring,Quick Feet,1
+Ursaring,Unnerve,20
+Ursaring,Frighten,20
+Ursaring,Bodyguard,40
+Lickitung,Thick Fat,1
+Lickitung,Own Tempo,1
+Lickitung,Oblivious,20
+Lickitung,Tingly Tongue,20
+Lickitung,Cloud Nine,40
+Lickilicky,Thick Fat,1
+Lickilicky,Own Tempo,1
+Lickilicky,Oblivious,20
+Lickilicky,Tingly Tongue,20
+Lickilicky,Cloud Nine,40
+Munchlax,Thick Fat,1
+Munchlax,Pickup,1
+Munchlax,Lunchbox,20
+Munchlax,Gluttony,20
+Munchlax,Deep Sleep,40
+Snorlax,Thick Fat,1
+Snorlax,Immunity,1
+Snorlax,Lunchbox,20
+Snorlax,Gluttony,20
+Snorlax,Deep Sleep,40
+Burmy,Quick Cloak,1
+Burmy,Overcoat,20
+Burmy,Shed Skin,20
+Burmy,Tolerance,20
+Burmy,Sturdy,40
+Wormadam,Anticipation,1
+Wormadam,Overcoat,20
+Wormadam,Adaptability,20
+Wormadam,Tolerance,20
+Wormadam,Grass Pelt,40
+Wormadam,Sand Veil,40
+Wormadam,Clear Body,40
+Mothim,Tinted Lens,1
+Mothim,Swarm,20
+Mothim,Honey Thief,20
+Mothim,Flutter,20
+Mothim,Compound Eyes,40
+Nincada,Compound Eyes,1
+Nincada,Forewarn,20
+Nincada,Run Away,20
+Nincada,Sand Veil,20
+Nincada,Dig Away,40
+Ninjask,Speed Boost,1
+Ninjask,Infiltrator,20
+Ninjask,Rocket,20
+Ninjask,Blur,20
+Ninjask,Vanguard,40
+Shedinja,Wonder Guard,1
+Shedinja,Dodge,20
+Shedinja,Magic Guard,20
+Shedinja,Wonder Skin,20
+Shedinja,Pressure,40
+Paras,Dry Skin,1
+Paras,Tochukaso,1
+Paras,Effect Spore,20
+Paras,Dire Spore,20
+Paras,Damp,40
+Parasect,Dry Skin,1
+Parasect,Tochukaso,1
+Parasect,Effect Spore,20
+Parasect,Dire Spore,20
+Parasect,Damp,40
+Venonat,Compound Eyes,1
+Venonat,Tinted Lens,1
+Venonat,Run Away,20
+Venonat,Shield Dust,20
+Venonat,Dust Cloud,40
+Venomoth,Compound Eyes,1
+Venomoth,Tinted Lens,1
+Venomoth,Wonder Skin,20
+Venomoth,Shield Dust,20
+Venomoth,Dust Cloud,40
+Ledyba,Early Bird,1
+Ledyba,Infiltrator,20
+Ledyba,Rattled,20
+Ledyba,Swarm,20
+Ledyba,Starlight,40
+Ledian,Early Bird,1
+Ledian,Pure Power,20
+Ledian,Iron Fist,20
+Ledian,Swarm,20
+Ledian,Starlight,40
+Spinarak,Insomnia,1
+Spinarak,Swarm,20
+Spinarak,Silk Threads,20
+Spinarak,Sniper,20
+Spinarak,Ambush,40
+Ariados,Insomnia,1
+Ariados,Swarm,20
+Ariados,Silk Threads,20
+Ariados,Sniper,20
+Ariados,Ambush,40
+Yanma,Speed Boost,1
+Yanma,Compound Eyes,1
+Yanma,Frisk,20
+Yanma,Rocket,20
+Yanma,Tinted Lens,40
+Yanmega,Speed Boost,1
+Yanmega,Compound Eyes,1
+Yanmega,Frisk,20
+Yanmega,Rocket,20
+Yanmega,Tinted Lens,40
+Pineco,Sturdy,1
+Pineco,Rock Head,1
+Pineco,Overcoat,20
+Pineco,Aftermath,40
+Forretress,Sturdy,1
+Forretress,Rock Head,1
+Forretress,Overcoat,20
+Forretress,Aftermath,40
+Surskit,Water Absorb,1
+Surskit,Danger Syrup,20
+Surskit,Instinct,20
+Surskit,Swift Swim,20
+Surskit,Rain Dish,40
+Masquerain,Intimidate,1
+Masquerain,Dodge,20
+Masquerain,Instinct,20
+Masquerain,Frighten,20
+Masquerain,Unnerve,40
+Kricketot,Shed Skin,1
+Kricketot,Run Away,1
+Kricketot,Swarm,20
+Kricketot,Technician,20
+Kricketot,Drown Out,40
+Kricketune,Confidence,1
+Kricketune,Rally,1
+Kricketune,Swarm,20
+Kricketune,Technician,20
+Kricketune,Drown Out,40
+Combee,Pickup,1
+Combee,Hustle,20
+Combee,Pack Hunt,20
+Combee,Teamwork,40
+Vespiquen,Rally,1
+Vespiquen,Pressure,20
+Vespiquen,Unnerve,20
+Vespiquen,Friend Guard,40
+Dwebble,Sturdy,1
+Dwebble,Shell Armor,1
+Dwebble,Hyper Cutter,20
+Dwebble,Weak Armor,20
+Dwebble,Rattled,40
+Crustle,Sturdy,1
+Crustle,Shell Armor,1
+Crustle,Hyper Cutter,20
+Crustle,Weak Armor,20
+Crustle,Rattled,40
+Karrablast,Shed Skin,1
+Karrablast,Unburden,20
+Karrablast,Analytic,20
+Karrablast,Swarm,20
+Karrablast,No Guard,40
+Escavalier,Shell Armor,1
+Escavalier,Overcoat,20
+Escavalier,Analytic,20
+Escavalier,Swarm,20
+Escavalier,Run Up,40
+Shelmet,Shell Armor,1
+Shelmet,Overcoat,20
+Shelmet,Hydration,20
+Shelmet,Sturdy,20
+Shelmet,Dodge,40
+Accelgor,Sticky Hold,1
+Accelgor,Blur,20
+Accelgor,Hydration,20
+Accelgor,Unburden,20
+Accelgor,Vanguard,40
+Joltik,Compound Eyes,1
+Joltik,Unnerve,1
+Joltik,Static,20
+Joltik,Swarm,20
+Joltik,Sequence,40
+Galvantula,Compound Eyes,1
+Galvantula,Unnerve,1
+Galvantula,Static,20
+Galvantula,Swarm,20
+Galvantula,Sequence,40
+Scyther,Technician,1
+Scyther,Vanguard,1
+Scyther,Swarm,20
+Scyther,Steadfast,20
+Scyther,Parry,40
+Scizor,Technician,1
+Scizor,Light Metal,1
+Scizor,Swarm,20
+Scizor,Steadfast,20
+Scizor,Parry,40
+Larvesta,Flame Body,1
+Larvesta,Fiery Crash,20
+Larvesta,Tinted Lens,20
+Larvesta,Swarm,20
+Larvesta,Flash Fire,40
+Volcarona,Flame Body,1
+Volcarona,Levitate,20
+Volcarona,Tinted Lens,20
+Volcarona,Swarm,20
+Volcarona,Flash Fire,40
+Spearow,Keen Eye,1
+Spearow,Sniper,20
+Spearow,Scrappy,20
+Spearow,Vanguard,40
+Fearow,Keen Eye,1
+Fearow,Sniper,20
+Fearow,Scrappy,20
+Fearow,Vanguard,40
+Doduo,Early Bird,1
+Doduo,Run Away,1
+Doduo,Tangled Feet,20
+Doduo,Polycephaly,20
+Doduo,Vanguard,40
+Dodrio,Early Bird,1
+Dodrio,Run Away,1
+Dodrio,Tangled Feet,20
+Dodrio,Polycephaly,20
+Dodrio,Vanguard,40
+Hoothoot,Insomnia,1
+Hoothoot,Keen Eye,1
+Hoothoot,Tinted Lens,20
+Hoothoot,Perception,40
+Noctowl,Insomnia,1
+Noctowl,Keen Eye,1
+Noctowl,Tinted Lens,20
+Noctowl,Perception,40
+Taillow,Guts,1
+Taillow,Vital Spirit,1
+Taillow,Scrappy,20
+Taillow,Defiant,40
+Swellow,Guts,1
+Swellow,Vital Spirit,1
+Swellow,Scrappy,20
+Swellow,Defiant,40
+Rufflet,Keen Eye,1
+Rufflet,Sheer Force,1
+Rufflet,Hustle,20
+Rufflet,Courage,20
+Rufflet,Bodyguard,40
+Braviary,Keen Eye,1
+Braviary,Sheer Force,1
+Braviary,Defiant,20
+Braviary,Courage,20
+Braviary,Bodyguard,40
+Swablu,Natural Cure,1
+Swablu,Serene Grace,20
+Swablu,Confidence,20
+Swablu,Cloud Nine,40
+Altaria,Natural Cure,1
+Altaria,Serene Grace,20
+Altaria,Confidence,20
+Altaria,Cloud Nine,40
+Ekans,Shed Skin,1
+Ekans,Intimidate,1
+Ekans,Unnerve,20
+Ekans,Keen Eye,40
+Arbok,Shed Skin,1
+Arbok,Intimidate,1
+Arbok,Serpent's Mark,20
+Arbok,Serpent's Mark 2,40
+Stunky,Stench,1
+Stunky,Keen Eye,20
+Stunky,Odious Spray,20
+Stunky,Aftermath,40
+Skuntank,Stench,1
+Skuntank,Keen Eye,20
+Skuntank,Odious Spray,20
+Skuntank,Aftermath,40
+Grimer,Stench,1
+Grimer,Sticky Hold,1
+Grimer,Poison Touch,20
+Grimer,Defy Death,20
+Grimer,Absorb Force,40
+Muk,Stench,1
+Muk,Sticky Hold,1
+Muk,Poison Touch,20
+Muk,Defy Death,20
+Muk,Absorb Force,40
+Koffing,Levitate,1
+Koffing,Sticky Smoke,20
+Koffing,Aftermath,20
+Koffing,White Smoke,40
+Weezing,Levitate,1
+Weezing,Sticky Smoke,20
+Weezing,Aftermath,20
+Weezing,White Smoke,40
+Gulpin,Sticky Hold,1
+Gulpin,Liquid Ooze,1
+Gulpin,Gluttony,20
+Gulpin,Big Swallow,40
+Swalot,Sticky Hold,1
+Swalot,Liquid Ooze,1
+Swalot,Gluttony,20
+Swalot,Big Swallow,40
+Trubbish,Sticky Hold,1
+Trubbish,Stench,1
+Trubbish,Absorb Force,20
+Trubbish,Aftermath,40
+Garbodor,Weak Armor,1
+Garbodor,Stench,1
+Garbodor,Absorb Force,20
+Garbodor,Aftermath,40
+Skorupi,Battle Armor,1
+Skorupi,Sniper,1
+Skorupi,Keen Eye,20
+Skorupi,Strong Jaw,20
+Skorupi,Vicious,40
+Drapion,Battle Armor,1
+Drapion,Sniper,1
+Drapion,Keen Eye,20
+Drapion,Strong Jaw,20
+Drapion,Vicious,40
+Croagunk,Dry Skin,1
+Croagunk,Anticipation,1
+Croagunk,Poison Touch,20
+Croagunk,Dodge,20
+Croagunk,Deadly Poison,40
+Toxicroak,Dry Skin,1
+Toxicroak,Anticipation,1
+Toxicroak,Poison Touch,20
+Toxicroak,Dodge,20
+Toxicroak,Deadly Poison,40
+Sandshrew,Sand Veil,1
+Sandshrew,Pickup,1
+Sandshrew,Quick Curl,20
+Sandshrew,Sand Rush,20
+Sandshrew,Dig Away,40
+Sandslash,Sand Veil,1
+Sandslash,Rough Skin,1
+Sandslash,Quick Curl,20
+Sandslash,Sand Rush,20
+Sandslash,Dig Away,40
+Diglett,Sand Veil,1
+Diglett,Arena Trap,1
+Diglett,Sand Force,20
+Diglett,Celebrate,20
+Diglett,Dig Away,40
+Dugtrio,Sand Veil,1
+Dugtrio,Arena Trap,1
+Dugtrio,Sand Force,20
+Dugtrio,Polycephaly,20
+Dugtrio,Dig Away,40
+Cubone,Battle Armor,1
+Cubone,Lightning Rod,1
+Cubone,Bone Wielder,20
+Cubone,Rock Head,20
+Cubone,Bone Lord,40
+Marowak,Battle Armor,1
+Marowak,Lightning Rod,1
+Marowak,Bone Wielder,20
+Marowak,Rock Head,20
+Marowak,Bone Lord,40
+Gligar,Hyper Cutter,1
+Gligar,Sand Veil,1
+Gligar,Immunity,20
+Gligar,Ambush,40
+Gliscor,Hyper Cutter,1
+Gliscor,Sand Veil,1
+Gliscor,Poison Heal,20
+Gliscor,Ambush,40
+Phanpy,Pickup,1
+Phanpy,Frisk,1
+Phanpy,Sand Veil,20
+Phanpy,Run Up,20
+Phanpy,Sand Force,40
+Donphan,Sturdy,1
+Donphan,Frisk,1
+Donphan,Sand Veil,20
+Donphan,Run Up,20
+Donphan,Sand Force,40
+Baltoy,Levitate,1
+Baltoy,Own Tempo,20
+Baltoy,Sand Veil,20
+Baltoy,Inner Focus,40
+Claydol,Levitate,1
+Claydol,Own Tempo,20
+Claydol,Sand Veil,20
+Claydol,Clay Cannons,40
+Hippopotas,Sand Stream,1
+Hippopotas,Oblivious,1
+Hippopotas,Sand Force,20
+Hippopotas,Sand Rush,40
+Hippowdon,Sand Stream,1
+Hippowdon,Arena Trap,1
+Hippowdon,Sand Force,20
+Hippowdon,Sand Rush,40
+Drilbur,Sand Rush,1
+Drilbur,Sand Force,1
+Drilbur,Mold Breaker,20
+Drilbur,Sand Veil,20
+Drilbur,Parry,40
+Excadrill,Sand Rush,1
+Excadrill,Sand Force,1
+Excadrill,Mold Breaker,20
+Excadrill,Sand Veil,20
+Excadrill,Parry,40
+Golett,Iron Fist,1
+Golett,Klutz,1
+Golett,Bodyguard,20
+Golett,Hustle,20
+Golett,No Guard,40
+Golurk,Iron Fist,1
+Golurk,Klutz,1
+Golurk,Bodyguard,20
+Golurk,Prime Fury,20
+Golurk,No Guard,40
+Bonsly,Copy Master,1
+Bonsly,Sturdy,20
+Bonsly,Cute Tears,20
+Bonsly,Rattled,20
+Bonsly,Rock Head,40
+Sudowoodo,Copy Master,1
+Sudowoodo,Sturdy,20
+Sudowoodo,Cute Tears,20
+Sudowoodo,Mimitree,20
+Sudowoodo,Rock Head,40
+Nosepass,Sturdy,1
+Nosepass,Magnet Pull,1
+Nosepass,Sand Force,20
+Nosepass,Weak Armor,20
+Nosepass,Targeting System,40
+Probopass,Sturdy,1
+Probopass,Magnet Pull,1
+Probopass,Sand Force,20
+Probopass,Mini-Noses,20
+Probopass,Targeting System,40
+Onix,Sturdy,1
+Onix,Weak Armor,20
+Onix,Frighten,20
+Onix,Rock Head,40
+Steelix,Sturdy,1
+Steelix,Weak Armor,20
+Steelix,Frighten,20
+Steelix,Rock Head,40
+Bronzor,Levitate,1
+Bronzor,Heat Proof,20
+Bronzor,Heavy Metal,20
+Bronzor,Magic Guard,20
+Bronzor,Bodyguard,40
+Bronzong,Levitate,1
+Bronzong,Heat Proof,20
+Bronzong,Heavy Metal,20
+Bronzong,Magic Guard,20
+Bronzong,Bodyguard,40
+Sunkern,Sun Blanket,1
+Sunkern,Solar Power,1
+Sunkern,Chlorophyll,20
+Sunkern,Early Bird,20
+Sunkern,Drought,40
+Sunflora,Sun Blanket,1
+Sunflora,Solar Power,1
+Sunflora,Chlorophyll,20
+Sunflora,Early Bird,20
+Sunflora,Drought,40
+Tangela,Photosynthesis,1
+Tangela,Life Force,1
+Tangela,Leaf Guard,20
+Tangela,Chlorophyll,20
+Tangela,Regenerator,40
+Tangrowth,Photosynthesis,1
+Tangrowth,Life Force,1
+Tangrowth,Leaf Guard,20
+Tangrowth,Chlorophyll,20
+Tangrowth,Regenerator,40
+Cherubi,Cherry Power,1
+Cherubi,Chlorophyll,20
+Cherubi,Photosynthesis,20
+Cherubi,Sun Blanket,20
+Cherubi,Regenerator,40
+Cherrim,Flower Gift,1
+Cherrim,Pickup,20
+Cherrim,Huge Power,20
+Cherrim,Sun Blanket,20
+Cherrim,Confidence,40
+Cottonee,Prankster,1
+Cottonee,Infiltrator,1
+Cottonee,Chlorophyll,20
+Cottonee,Leaf Guard,20
+Cottonee,Dodge,40
+Whimsicott,Prankster,1
+Whimsicott,Infiltrator,1
+Whimsicott,Chlorophyll,20
+Whimsicott,Windveiled,20
+Whimsicott,Dodge,40
+Petilil,Own Tempo,1
+Petilil,Aroma Veil,1
+Petilil,Chlorophyll,20
+Petilil,Photosynthesis,20
+Petilil,Leaf Guard,40
+Lilligant,Own Tempo,1
+Lilligant,Aroma Veil,1
+Lilligant,Chlorophyll,20
+Lilligant,Photosynthesis,20
+Lilligant,Leaf Guard,40
+Foongus,Effect Spore,1
+Foongus,Spinning Dance,1
+Foongus,Liquid Ooze,20
+Foongus,Root Down,20
+Foongus,Regenerator,40
+Amoonguss,Effect Spore,1
+Amoonguss,Spinning Dance,1
+Amoonguss,Liquid Ooze,20
+Amoonguss,Root Down,20
+Amoonguss,Regenerator,40
+Shroomish,Effect Spore,1
+Shroomish,Quick Feet,1
+Shroomish,Tangled Feet,20
+Shroomish,Natural Cure,20
+Shroomish,Poison Heal,40
+Breloom,Effect Spore,1
+Breloom,Quick Feet,1
+Breloom,Technician,20
+Breloom,Natural Cure,20
+Breloom,Poison Heal,40
+Ferroseed,Iron Barbs,1
+Ferroseed,Battle Armor,1
+Ferroseed,Anticipation,20
+Ferroseed,Weak Armor,20
+Ferroseed,Frighten,40
+Ferrothorn,Iron Barbs,1
+Ferrothorn,Battle Armor,1
+Ferrothorn,Anticipation,20
+Ferrothorn,Weak Armor,20
+Ferrothorn,Frighten,40
+Cacnea,Rough Skin,1
+Cacnea,Twisted Power,1
+Cacnea,Sand Veil,20
+Cacnea,Sun Blanket,20
+Cacnea,Water Absorb,40
+Cacturne,Rough Skin,1
+Cacturne,Twisted Power,1
+Cacturne,Sand Veil,20
+Cacturne,Sun Blanket,20
+Cacturne,Water Absorb,40
+Exeggcute,Filter,1
+Exeggcute,Cluster Mind,1
+Exeggcute,Chlorophyll,20
+Exeggcute,Twisted Power,20
+Exeggcute,Harvest,40
+Exeggutor,Filter,1
+Exeggutor,Cluster Mind,1
+Exeggutor,Chlorophyll,20
+Exeggutor,Twisted Power,20
+Exeggutor,Harvest,40
+Snover,Abominable,1
+Snover,Snow Warning,1
+Snover,Soundproof,20
+Snover,Photosynthesis,20
+Snover,Ice Body,40
+Abomasnow,Abominable,1
+Abomasnow,Snow Warning,1
+Abomasnow,Soundproof,20
+Abomasnow,Photosynthesis,20
+Abomasnow,Ice Body,40
+Vulpix,Flash Fire,1
+Vulpix,Fox Fire,20
+Vulpix,Celebrate,20
+Vulpix,Drought,40
+Ninetales,Flash Fire,1
+Ninetales,Fox Fire,20
+Ninetales,Cursed Body,20
+Ninetales,Drought,40
+Growlithe,Intimidate,1
+Growlithe,Flash Fire,1
+Growlithe,Justified,20
+Growlithe,Bodyguard,20
+Growlithe,Conqueror,40
+Arcanine,Intimidate,1
+Arcanine,Flash Fire,1
+Arcanine,Justified,20
+Arcanine,Bodyguard,20
+Arcanine,Conqueror,40
+Ponyta,Flash Fire,1
+Ponyta,Run Away,1
+Ponyta,Flame Body,20
+Ponyta,Sprint,40
+Rapidash,Flash Fire,1
+Rapidash,Run Away,1
+Rapidash,Flame Body,20
+Rapidash,Sprint,40
+Slugma,Magma Armor,1
+Slugma,Flame Body,1
+Slugma,Thermosensitive,20
+Slugma,Heat Mirage,20
+Slugma,Sun Blanket,40
+Magcargo,Magma Armor,1
+Magcargo,Flame Body,1
+Magcargo,Thermosensitive,20
+Magcargo,Heat Mirage,20
+Magcargo,Sun Blanket,40
+Numel,Oblivious,1
+Numel,Simple,1
+Numel,Delayed Reaction,20
+Numel,Klutz,20
+Numel,Own Tempo,40
+Camerupt,White Flame,1
+Camerupt,Solid Rock,1
+Camerupt,Anger Point,20
+Camerupt,Magma Armor,20
+Camerupt,Prime Fury,40
+Darumaka,Hustle,1
+Darumaka,Inner Focus,20
+Darumaka,Flash Fire,20
+Darumaka,Celebrate,40
+Darmanitan,Sheer Force,1
+Darmanitan,Zen Mode,20
+Darmanitan,Flash Fire,20
+Darmanitan,Celebrate,40
+Clamperl,Shell Armor,1
+Clamperl,Water Veil,20
+Clamperl,Sturdy,20
+Clamperl,Rattled,40
+Huntail,Gulp,1
+Huntail,Water Veil,20
+Huntail,Swift Swim,20
+Huntail,Strong Jaw,40
+Gorebyss,Gulp,1
+Gorebyss,Water Veil,20
+Gorebyss,Swift Swim,20
+Gorebyss,Sniper,40
+Slowpoke,Oblivious,1
+Slowpoke,Own Tempo,1
+Slowpoke,Delayed Reaction,20
+Slowpoke,Regenerator,40
+Slowbro,Oblivious,1
+Slowbro,Own Tempo,1
+Slowbro,Delayed Reaction,20
+Slowbro,Regenerator,40
+Slowking,Oblivious,1
+Slowking,Own Tempo,1
+Slowking,Telepathy,20
+Slowking,Regenerator,40
+Goldeen,Lightning Rod,1
+Goldeen,Water Veil,1
+Goldeen,Gulp,20
+Goldeen,Swift Swim,20
+Goldeen,Refreshing Veil,40
+Seaking,Lightning Rod,1
+Seaking,Water Veil,1
+Seaking,Gulp,20
+Seaking,Swift Swim,20
+Seaking,Refreshing Veil,40
+Barboach,Oblivious,1
+Barboach,Anticipation,1
+Barboach,Gulp,20
+Barboach,Mud Dweller,20
+Barboach,Hydration,40
+Whiscash,Oblivious,1
+Whiscash,Anticipation,1
+Whiscash,Gulp,20
+Whiscash,Mud Dweller,20
+Whiscash,Hydration,40
+Finneon,Swift Swim,1
+Finneon,Storm Drain,1
+Finneon,Gulp,20
+Finneon,Illuminate,20
+Finneon,Water Veil,40
+Lumineon,Swift Swim,1
+Lumineon,Storm Drain,1
+Lumineon,Gulp,20
+Lumineon,Illuminate,20
+Lumineon,Water Veil,40
+Chinchou,Volt Absorb,1
+Chinchou,Illuminate,1
+Chinchou,Gulp,20
+Chinchou,Water Absorb,20
+Chinchou,Water Veil,40
+Lanturn,Volt Absorb,1
+Lanturn,Illuminate,1
+Lanturn,Gulp,20
+Lanturn,Water Absorb,20
+Lanturn,Water Veil,40
+Carvanha,Rough Skin,1
+Carvanha,Strong Jaw,1
+Carvanha,Cruelty,20
+Carvanha,Twisted Power,20
+Carvanha,Speed Boost,40
+Sharpedo,Rough Skin,1
+Sharpedo,Strong Jaw,1
+Sharpedo,Cruelty,20
+Sharpedo,Twisted Power,20
+Sharpedo,Speed Boost,40
+Wingull,Keen Eye,1
+Wingull,Gluttony,20
+Wingull,Rain Dish,20
+Wingull,Lunchbox,20
+Wingull,Dodge,40
+Pelipper,Keen Eye,1
+Pelipper,Gluttony,20
+Pelipper,Rain Dish,20
+Pelipper,Lunchbox,20
+Pelipper,Big Swallow,40
+Ducklett,Keen Eye,1
+Ducklett,Big Pecks,1
+Ducklett,Adaptability,20
+Ducklett,Hydration,20
+Ducklett,Serene Grace,40
+Swanna,Keen Eye,1
+Swanna,Big Pecks,1
+Swanna,Adaptability,20
+Swanna,Hydration,20
+Swanna,Serene Grace,40
+Tentacool,Clear Body,1
+Tentacool,Liquid Ooze,1
+Tentacool,Rain Dish,20
+Tentacool,Gulp,20
+Tentacool,Illuminate,40
+Tentacruel,Clear Body,1
+Tentacruel,Liquid Ooze,1
+Tentacruel,Rain Dish,20
+Tentacruel,Gulp,20
+Tentacruel,Illuminate,40
+Frillish,Water Absorb,1
+Frillish,Cursed Body,1
+Frillish,Damp,20
+Frillish,Liquid Ooze,20
+Frillish,Pressure,40
+Jellicent,Water Absorb,1
+Jellicent,Cursed Body,1
+Jellicent,Damp,20
+Jellicent,Liquid Ooze,20
+Jellicent,Pressure,40
+Shellder,Shell Armor,1
+Shellder,Shell Shield,1
+Shellder,Overcoat,20
+Shellder,Wonder Skin,20
+Shellder,Skill Link,40
+Cloyster,Shell Armor,1
+Cloyster,Shell Shield,1
+Cloyster,Overcoat,20
+Cloyster,Wonder Skin,20
+Cloyster,Skill Link,40
+Krabby,Hyper Cutter,1
+Krabby,Shell Armor,1
+Krabby,Parry,20
+Krabby,Sheer Force,20
+Krabby,Dodge,40
+Kingler,Hyper Cutter,1
+Kingler,Shell Armor,1
+Kingler,Parry,20
+Kingler,Sheer Force,20
+Kingler,Hustle,40
+Corphish,Hyper Cutter,1
+Corphish,Shell Armor,1
+Corphish,Parry,20
+Corphish,Adaptability,20
+Corphish,Bully,40
+Crawdaunt,Hyper Cutter,1
+Crawdaunt,Shell Armor,1
+Crawdaunt,Parry,20
+Crawdaunt,Adaptability,20
+Crawdaunt,Bully,40
+Staryu,Natural Cure,1
+Staryu,Illuminate,1
+Staryu,Analytic,20
+Staryu,Starswirl,20
+Staryu,Defy Death,40
+Starmie,Natural Cure,1
+Starmie,Illuminate,1
+Starmie,Analytic,20
+Starmie,Starswirl,20
+Starmie,Defy Death,40
+Psyduck,Cloud Nine,1
+Psyduck,Damp,1
+Psyduck,Migraine,20
+Psyduck,Swift Swim,20
+Psyduck,Oblivious,40
+Golduck,Cloud Nine,1
+Golduck,Damp,1
+Golduck,Wave Rider,20
+Golduck,Swift Swim,20
+Golduck,Vanguard,40
+Wooper,Mud Dweller,1
+Wooper,Water Absorb,1
+Wooper,Unaware,20
+Wooper,Gulp,20
+Wooper,Damp,40
+Quagsire,Mud Dweller,1
+Quagsire,Water Absorb,1
+Quagsire,Unaware,20
+Quagsire,Gulp,20
+Quagsire,Damp,40
+Seel,Thick Fat,1
+Seel,Winter's Kiss,1
+Seel,Ice Body,20
+Seel,Hydration,20
+Seel,Frostbite,40
+Dewgong,Thick Fat,1
+Dewgong,Winter's Kiss,1
+Dewgong,Ice Body,20
+Dewgong,Hydration,20
+Dewgong,Frostbite,40
+Shellos,Sticky Hold,1
+Shellos,Storm Drain,1
+Shellos,Life Force,20
+Shellos,Sand Force,20
+Shellos,Defy Death,40
+Gastrodon,Sticky Hold,1
+Gastrodon,Storm Drain,1
+Gastrodon,Life Force,20
+Gastrodon,Sand Force,20
+Gastrodon,Defy Death,40
+Buizel,Vanguard,1
+Buizel,Wave Rider,1
+Buizel,Swift Swim,20
+Buizel,Water Veil,20
+Buizel,Defiant,40
+Floatzel,Vanguard,1
+Floatzel,Wave Rider,1
+Floatzel,Swift Swim,20
+Floatzel,Water Veil,20
+Floatzel,Defiant,40
+Remoraid,Hustle,1
+Remoraid,Sniper,1
+Remoraid,Beam Canon,20
+Remoraid,Targeting System,20
+Remoraid,Moody,40
+Octillery,Suction Cups,1
+Octillery,Sniper,1
+Octillery,Beam Canon,20
+Octillery,Targeting System,20
+Octillery,Moody,40
+Mantyke,Water Absorb,1
+Mantyke,Wonder Skin,1
+Mantyke,Serene Grace,20
+Mantyke,Swift Swim,20
+Mantyke,Water Veil,40
+Mantine,Water Absorb,1
+Mantine,Wonder Skin,1
+Mantine,Serene Grace,20
+Mantine,Swift Swim,20
+Mantine,Water Veil,40
+Magikarp,Gulp,1
+Magikarp,Simple,1
+Magikarp,Decoy,20
+Magikarp,Swift Swim,20
+Magikarp,Rattled,40
+Gyarados,Intimidate,1
+Gyarados,Frighten,1
+Gyarados,Steadfast,20
+Gyarados,Swift Swim,20
+Gyarados,Moxie,40
+Feebas,Gulp,1
+Feebas,Swift Swim,1
+Feebas,Adaptability,20
+Feebas,Ugly,20
+Feebas,Simple,40
+Milotic,Marvel Scale,1
+Milotic,Competitive,1
+Milotic,Cute Charm,20
+Milotic,Beautiful,20
+Milotic,Gentle Vibe,40
+Wailmer,Oblivious,1
+Wailmer,Water Veil,1
+Wailmer,Thick Fat,20
+Wailmer,Wave Rider,20
+Wailmer,Pressure,40
+Wailord,Oblivious,1
+Wailord,Water Veil,1
+Wailord,Thick Fat,20
+Wailord,Wave Rider,20
+Wailord,Pressure,40
+Snorunt,Inner Focus,1
+Snorunt,Ice Body,1
+Snorunt,Winter's Kiss,20
+Snorunt,Moody,40
+Glalie,Inner Focus,1
+Glalie,Ice Body,1
+Glalie,Winter's Kiss,20
+Glalie,Moody,40
+Froslass,Magic Guard,1
+Froslass,Snow Cloak,1
+Froslass,Cursed Body,20
+Froslass,Frostbite,40
+Cubchoo,Snow Cloak,1
+Cubchoo,Cute Charm,1
+Cubchoo,Deep Sleep,20
+Cubchoo,Rattled,40
+Beartic,Snow Cloak,1
+Beartic,Frighten,1
+Beartic,Deep Sleep,20
+Beartic,Swift Swim,40
+Voltorb,Static,1
+Voltorb,Soundproof,1
+Voltorb,Speed Boost,20
+Voltorb,Minus,20
+Voltorb,Aftermath,40
+Electrode,Static,1
+Electrode,Soundproof,1
+Electrode,Speed Boost,20
+Electrode,Plus,20
+Electrode,Aftermath,40
+Electrike,Electrodash,1
+Electrike,Lightning Rod,1
+Electrike,Sprint,20
+Electrike,Static,20
+Electrike,Minus,40
+Manectric,Electrodash,1
+Manectric,Lightning Rod,1
+Manectric,Sprint,20
+Manectric,Static,20
+Manectric,Minus,40
+Blitzle,Lightning Rod,1
+Blitzle,Motor Drive,1
+Blitzle,Sprint,20
+Blitzle,Thunder Boost,20
+Blitzle,Sap Sipper,40
+Zebstrika,Lightning Rod,1
+Zebstrika,Motor Drive,1
+Zebstrika,Sprint,20
+Zebstrika,Thunder Boost,20
+Zebstrika,Sap Sipper,40
+Natu,Synchronize,1
+Natu,Early Bird,1
+Natu,Probability Control,20
+Natu,Transporter,20
+Natu,Magic Bounce,40
+Xatu,Synchronize,1
+Xatu,Early Bird,1
+Xatu,Probability Control,20
+Xatu,Transporter,20
+Xatu,Magic Bounce,40
+Woobat,Unaware,1
+Woobat,Klutz,1
+Woobat,Simple,20
+Woobat,Celebrate,20
+Woobat,Sonic Courtship,40
+Swoobat,Unaware,1
+Swoobat,Klutz,1
+Swoobat,Simple,20
+Swoobat,Celebrate,20
+Swoobat,Sonic Courtship,40
+Spoink,Own Tempo,1
+Spoink,Thick Fat,1
+Spoink,Gluttony,20
+Spoink,Run Away,20
+Spoink,Telepathy,40
+Grumpig,Own Tempo,1
+Grumpig,Thick Fat,1
+Grumpig,Gluttony,20
+Grumpig,Synchronize,20
+Grumpig,Telepathy,40
+Munna,Forewarn,1
+Munna,Synchronize,1
+Munna,Telepathy,20
+Munna,Dreamspinner,20
+Munna,Daze,40
+Musharna,Forewarn,1
+Musharna,Synchronize,1
+Musharna,Telepathy,20
+Musharna,Dreamspinner,20
+Musharna,Daze,40
+Elgyem,Telepathy,1
+Elgyem,Synchronize,1
+Elgyem,Analytic,20
+Elgyem,Memory Wipe,20
+Elgyem,Probability Control,40
+Beheeyem,Telepathy,1
+Beheeyem,Synchronize,1
+Beheeyem,Analytic,20
+Beheeyem,Memory Wipe,20
+Beheeyem,Probability Control,40
+Drowzee,Insomnia,1
+Drowzee,Forewarn,1
+Drowzee,Inner Focus,20
+Drowzee,Hypnotic,20
+Drowzee,Dreamspinner,40
+Hypno,Insomnia,1
+Hypno,Forewarn,1
+Hypno,Inner Focus,20
+Hypno,Hypnotic,20
+Hypno,Dreamspinner,40
+Smoochum,Oblivious,1
+Smoochum,Forewarn,1
+Smoochum,Hydration,20
+Smoochum,Cute Tears,20
+Smoochum,Enfeebling Lips,40
+Jynx,Oblivious,1
+Jynx,Forewarn,1
+Jynx,Dry Skin,20
+Jynx,Winter's Kiss,20
+Jynx,Enfeebling Lips,40
+Mime Jr.,Soundproof,1
+Mime Jr.,Filter,1
+Mime Jr.,Technician,20
+Mime Jr.,Wallmaster,40
+Mr. Mime,Soundproof,1
+Mr. Mime,Filter,1
+Mr. Mime,Technician,20
+Mr. Mime,Wallmaster,40
+Chingling,Levitate,1
+Chingling,Serene Grace,20
+Chingling,Magic Guard,20
+Chingling,Cute Charm,40
+Chimecho,Levitate,1
+Chimecho,Serene Grace,20
+Chimecho,Magic Guard,20
+Chimecho,Soothing Tone,40
+Wynaut,Weeble,1
+Wynaut,Telepathy,20
+Wynaut,Oblivious,20
+Wynaut,Wobble,40
+Wobbuffet,Weeble,1
+Wobbuffet,Telepathy,20
+Wobbuffet,Oblivious,20
+Wobbuffet,Wobble,40
+Tyrogue,Guts,1
+Tyrogue,Steadfast,1
+Tyrogue,Vital Spirit,20
+Tyrogue,Discipline,20
+Tyrogue,Celebrate,40
+Hitmonlee,Reckless,1
+Hitmonlee,Limber,1
+Hitmonlee,Unburden,20
+Hitmonlee,Discipline,20
+Hitmonlee,Lightning Kicks,40
+Hitmonchan,Iron Fist,1
+Hitmonchan,Keen Eye,1
+Hitmonchan,Inner Focus,20
+Hitmonchan,Discipline,20
+Hitmonchan,Bodyguard,40
+Hitmontop,Intimidate,1
+Hitmontop,Technician,1
+Hitmontop,Steadfast,20
+Hitmontop,Discipline,20
+Hitmontop,Whirlwind Kicks,40
+Mankey,Vital Spirit,1
+Mankey,Defiant,1
+Mankey,Anger Point,20
+Mankey,Prime Fury,20
+Mankey,Enduring Rage,40
+Primeape,Vital Spirit,1
+Primeape,Defiant,1
+Primeape,Anger Point,20
+Primeape,Prime Fury,20
+Primeape,Enduring Rage,40
+Mienfoo,Inner Focus,1
+Mienfoo,Regenerator,1
+Mienfoo,Instinct,20
+Mienfoo,Reckless,20
+Mienfoo,Perception,40
+Mienshao,Inner Focus,1
+Mienshao,Regenerator,1
+Mienshao,Instinct,20
+Mienshao,Reckless,20
+Mienshao,Perception,40
+Makuhita,Thick Fat,1
+Makuhita,Guts,1
+Makuhita,Sumo Stance,20
+Makuhita,Sheer Force,40
+Hariyama,Thick Fat,1
+Hariyama,Guts,1
+Hariyama,Sumo Stance,20
+Hariyama,Sheer Force,40
+Meditite,Pure Power,1
+Meditite,Inner Focus,20
+Meditite,Telepathy,20
+Meditite,Scrappy,20
+Meditite,Aura Storm,40
+Medicham,Pure Power,1
+Medicham,Spinning Dance,20
+Medicham,Telepathy,20
+Medicham,Scrappy,20
+Medicham,Aura Storm,40
+Riolu,Steadfast,1
+Riolu,Inner Focus,1
+Riolu,Celebrate,20
+Riolu,Sprint,20
+Riolu,Prankster,40
+Lucario,Steadfast,1
+Lucario,Inner Focus,1
+Lucario,Justified,20
+Lucario,Parry,20
+Lucario,Aura Storm,40
+Murkrow,Insomnia,1
+Murkrow,Super Luck,1
+Murkrow,Omen,20
+Murkrow,Twisted Power,20
+Murkrow,Prankster,40
+Honchkrow,Insomnia,1
+Honchkrow,Super Luck,1
+Honchkrow,Confidence,20
+Honchkrow,Rally,20
+Honchkrow,Moxie,40
+Vullaby,Big Pecks,1
+Vullaby,Overcoat,1
+Vullaby,Weak Armor,20
+Vullaby,Lunchbox,20
+Vullaby,Frighten,40
+Mandibuzz,Big Pecks,1
+Mandibuzz,Overcoat,1
+Mandibuzz,Weak Armor,20
+Mandibuzz,Cruelty,20
+Mandibuzz,Frighten,40
+Purrloin,Limber,1
+Purrloin,Unburden,1
+Purrloin,Cruelty,20
+Purrloin,Prankster,20
+Purrloin,Vicious,40
+Liepard,Limber,1
+Liepard,Unburden,1
+Liepard,Cruelty,20
+Liepard,Prankster,20
+Liepard,Vicious,40
+Houndour,Flash Fire,1
+Houndour,Early Bird,1
+Houndour,Intimidate,20
+Houndour,Unnerve,20
+Houndour,Teamwork,40
+Houndoom,Flash Fire,1
+Houndoom,Early Bird,1
+Houndoom,Brimstone,20
+Houndoom,Unnerve,20
+Houndoom,Pack Hunt,40
+Poochyena,Run Away,1
+Poochyena,Teamwork,1
+Poochyena,Rattled,20
+Poochyena,Quick Feet,20
+Poochyena,Pack Hunt,40
+Mightyena,Intimidate,1
+Mightyena,Teamwork,1
+Mightyena,Moxie,20
+Mightyena,Quick Feet,20
+Mightyena,Pack Hunt,40
+Scraggy,Shed Skin,1
+Scraggy,Moxie,1
+Scraggy,Intimidate,20
+Scraggy,Reckless,40
+Scrafty,Shed Skin,1
+Scrafty,Moxie,1
+Scrafty,Intimidate,20
+Scrafty,Reckless,40
+Sneasel,Inner Focus,1
+Sneasel,Keen Eye,1
+Sneasel,Teamwork,20
+Sneasel,Pickpocket,20
+Sneasel,Vicious,40
+Weavile,Pressure,1
+Weavile,Keen Eye,1
+Weavile,Teamwork,20
+Weavile,Pickpocket,20
+Weavile,Vicious,40
+Pawniard,Defiant,1
+Pawniard,Inner Focus,1
+Pawniard,Pressure,20
+Pawniard,Teamwork,20
+Pawniard,Parry,40
+Bisharp,Defiant,1
+Bisharp,Inner Focus,1
+Bisharp,Pressure,20
+Bisharp,Rally,20
+Bisharp,Parry,40
+Zorua,Illusion,1
+Zorua,Instinct,20
+Zorua,Cute Tears,20
+Zorua,Pickpocket,40
+Zoroark,Illusion,1
+Zoroark,Vicious,20
+Zoroark,Pride,20
+Zoroark,Pickpocket,40
+Misdreavus,Levitate,1
+Misdreavus,Frighten,20
+Misdreavus,Magician,20
+Misdreavus,Omen,20
+Misdreavus,Pressure,40
+Mismagius,Levitate,1
+Mismagius,Frighten,20
+Mismagius,Magician,20
+Mismagius,Omen,20
+Mismagius,Pressure,40
+Shuppet,Frisk,1
+Shuppet,Insomnia,1
+Shuppet,Cursed Body,20
+Shuppet,Mojo,20
+Shuppet,Voodoo Doll,40
+Banette,Frisk,1
+Banette,Insomnia,1
+Banette,Cursed Body,20
+Banette,Mojo,20
+Banette,Voodoo Doll,40
+Drifloon,Unburden,1
+Drifloon,Aftermath,1
+Drifloon,Absorb Force,20
+Drifloon,Flare Boost,20
+Drifloon,Decoy,40
+Drifblim,Unburden,1
+Drifblim,Aftermath,1
+Drifblim,Absorb Force,20
+Drifblim,Flare Boost,20
+Drifblim,Decoy,40
+Yamask,Mummy,1
+Yamask,Sand Veil,20
+Yamask,Shackle,20
+Yamask,Cursed Body,40
+Cofagrigus,Mummy,1
+Cofagrigus,Sand Veil,20
+Cofagrigus,Shackle,20
+Cofagrigus,Cursed Body,40
+Pansage,Decoy,1
+Pansage,Gluttony,1
+Pansage,Grass Pelt,20
+Pansage,Sap Sipper,20
+Pansage,Overgrow,40
+Simisage,Decoy,1
+Simisage,Gluttony,1
+Simisage,Grass Pelt,20
+Simisage,Sap Sipper,20
+Simisage,Overgrow,40
+Pansear,Decoy,1
+Pansear,Gluttony,1
+Pansear,Flame Body,20
+Pansear,Flash Fire,20
+Pansear,Blaze,40
+Simisear,Decoy,1
+Simisear,Gluttony,1
+Simisear,Flame Body,20
+Simisear,Flash Fire,20
+Simisear,Blaze,40
+Panpour,Decoy,1
+Panpour,Gluttony,1
+Panpour,Rain Dish,20
+Panpour,Water Absorb,20
+Panpour,Torrent,40
+Simipour,Decoy,1
+Simipour,Gluttony,1
+Simipour,Rain Dish,20
+Simipour,Water Absorb,20
+Simipour,Torrent,40
+Farfetch'd,Keen Eye,1
+Farfetch'd,Inner Focus,1
+Farfetch'd,Defiant,20
+Farfetch'd,Super Luck,20
+Farfetch'd,Leek Mastery,40
+Chatot,Keen Eye,1
+Chatot,Tangled Feet,1
+Chatot,Big Pecks,20
+Chatot,Soundproof,20
+Chatot,Drown Out,40
+Dunsparce,Serene Grace,1
+Dunsparce,Run Away,1
+Dunsparce,Rattled,20
+Dunsparce,Spiteful Intervention,20
+Dunsparce,Dig Away,40
+Miltank,Thick Fat,1
+Miltank,Scrappy,1
+Miltank,Lunchbox,20
+Miltank,Sap Sipper,20
+Miltank,Run Up,40
+Tauros,Intimidate,1
+Tauros,Anger Point,1
+Tauros,Sheer Force,20
+Tauros,Gore,20
+Tauros,Run Up,40
+Bouffalant,Sap Sipper,1
+Bouffalant,Soundproof,1
+Bouffalant,Reckless,20
+Bouffalant,Gore,20
+Bouffalant,Rock Head,40
+Stantler,Intimidate,1
+Stantler,Frisk,1
+Stantler,Sap Sipper,20
+Stantler,Probability Control,20
+Stantler,Hypnotic,40
+Audino,Healer,1
+Audino,Regenerator,20
+Audino,Klutz,20
+Audino,Helper,20
+Audino,Blessed Touch,40
+Spinda,Strange Tempo,1
+Spinda,Tangled Feet,1
+Spinda,Dodge,20
+Spinda,Spinning Dance,20
+Spinda,Contrary,40
+Kecleon,Color Change,1
+Kecleon,Protean,1
+Kecleon,Infiltrator,20
+Kecleon,Filter,20
+Kecleon,Tolerance,40
+Castform,Forecast,1
+Castform,Levitate,20
+Castform,Cloud Nine,20
+Castform,Drought,40
+Castform,Sand Stream,40
+Castform,Snow Warning,40
+Castform,Drizzle,40
+Smeargle,Color Theory,1
+Smeargle,Moody,20
+Smeargle,Own Tempo,20
+Smeargle,Technician,20
+Kangaskhan,Early Bird,1
+Kangaskhan,Scrappy,1
+Kangaskhan,Inner Focus,20
+Kangaskhan,Bodyguard,40
+Zangoose,Immunity,1
+Zangoose,Toxic Boost,1
+Zangoose,Sprint,20
+Zangoose,Discipline,20
+Zangoose,Celebrate,40
+Seviper,Shed Skin,1
+Seviper,Infiltrator,1
+Seviper,Razor Edge,20
+Seviper,Sniper,20
+Seviper,Deadly Poison,40
+Shuckle,Sturdy,1
+Shuckle,Shell Shield,1
+Shuckle,Berry Storage,20
+Shuckle,Gluttony,20
+Shuckle,Contrary,40
+Durant,Hustle,1
+Durant,Swarm,1
+Durant,Truant,20
+Durant,Oblivious,20
+Durant,Teamwork,40
+Pinsir,Hyper Cutter,1
+Pinsir,Mold Breaker,1
+Pinsir,Moxie,20
+Pinsir,Kampfgeist,20
+Pinsir,Parry,40
+Heracross,Guts,1
+Heracross,Swarm,1
+Heracross,Moxie,20
+Heracross,Sap Sipper,20
+Heracross,Parry,40
+Carnivine,Flying Fly Trap,1
+Carnivine,Ambush,20
+Carnivine,Gluttony,20
+Carnivine,Technician,20
+Carnivine,Big Swallow,40
+Maractus,Water Absorb,1
+Maractus,Storm Drain,1
+Maractus,Own Tempo,20
+Maractus,Desert Weather,20
+Maractus,Spinning Dance,40
+Tropius,Chlorophyll,1
+Tropius,Solar Power,1
+Tropius,Photosynthesis,20
+Tropius,Harvest,40
+Torkoal,White Smoke,1
+Torkoal,Shell Armor,20
+Torkoal,Shell Shield,20
+Torkoal,Sturdy,40
+Heatmor,Flash Fire,1
+Heatmor,Gluttony,1
+Heatmor,White Smoke,20
+Heatmor,Flame Tongue,40
+Qwilfish,Swift Swim,1
+Qwilfish,Poison Point,1
+Qwilfish,Gulp,20
+Qwilfish,Intimidate,20
+Qwilfish,Poison Touch,40
+Basculin,Adaptability,1
+Basculin,Gulp,20
+Basculin,Reckless,20
+Basculin,Rock Head,20
+Basculin,Mold Breaker,40
+Relicanth,Sturdy,1
+Relicanth,Rock Head,20
+Relicanth,Swift Swim,20
+Relicanth,Gulp,40
+Corsola,Natural Cure,1
+Corsola,Regenerator,1
+Corsola,Hustle,20
+Corsola,Solid Rock,20
+Corsola,Refreshing Veil,40
+Luvdisc,Gulp,1
+Luvdisc,Water Veil,1
+Luvdisc,Swift Swim,20
+Luvdisc,Hydration,20
+Luvdisc,Wash Away,40
+Alomomola,Healer,1
+Alomomola,Hydration,1
+Alomomola,Gulp,20
+Alomomola,Regenerator,20
+Alomomola,Blessed Touch,40
+Lapras,Shell Armor,1
+Lapras,Water Absorb,1
+Lapras,Wistful Melody,20
+Lapras,Wash Away,20
+Lapras,Hydration,40
+Delibird,Vital Spirit,1
+Delibird,Hustle,20
+Delibird,Pickup,20
+Delibird,Delivery Bird,40
+Cryogonal,Levitate,1
+Cryogonal,Ice Body,20
+Cryogonal,Snow Cloak,20
+Cryogonal,Permafrost,20
+Cryogonal,Snow Warning,40
+Pachirisu,Run Away,1
+Pachirisu,Pickup,1
+Pachirisu,Sprint,20
+Pachirisu,Volt Absorb,40
+Emolga,Static,1
+Emolga,Cute Charm,1
+Emolga,Celebrate,20
+Emolga,Motor Drive,40
+Stunfisk,Static,1
+Stunfisk,Limber,1
+Stunfisk,Mud Dweller,20
+Stunfisk,Covert,40
+Rotom,Poltergeist,1
+Rotom,Static,20
+Rotom,Motor Drive,20
+Rotom,Sequence,40
+Girafarig,Inner Focus,1
+Girafarig,Early Bird,1
+Girafarig,Sap Sipper,20
+Girafarig,Probability Control,20
+Girafarig,Magic Bounce,40
+Sigilyph,Wonder Skin,1
+Sigilyph,Magic Guard,1
+Sigilyph,Tinted Lens,20
+Sigilyph,Instinct,40
+Mawile,Intimidate,1
+Mawile,Hyper Cutter,1
+Mawile,Sheer Force,20
+Mawile,Ambush,20
+Mawile,Strong Jaw,40
+Skarmory,Keen Eye,1
+Skarmory,Sturdy,1
+Skarmory,Weak Armor,20
+Skarmory,Intimidate,20
+Skarmory,Light Metal,40
+Absol,Pressure,1
+Absol,Super Luck,1
+Absol,Justified,20
+Absol,Forewarn,20
+Absol,Sprint,40
+Sableye,Keen Eye,1
+Sableye,Stall,1
+Sableye,Frighten,20
+Sableye,Frisk,20
+Sableye,Prankster,40
+Spiritomb,Pressure,1
+Spiritomb,Infiltrator,20
+Spiritomb,Cluster Mind,20
+Spiritomb,Interference,40
+Druddigon,Rough Skin,1
+Druddigon,Sheer Force,1
+Druddigon,Mold Breaker,20
+Druddigon,Cave Crasher,20
+Druddigon,Tolerance,40
+Plusle,Plus,1
+Plusle,Static,20
+Plusle,Cute Charm,20
+Plusle,Sequence,20
+Plusle,Lightning Rod,40
+Minun,Minus,1
+Minun,Static,20
+Minun,Cute Charm,20
+Minun,Sequence,20
+Minun,Volt Absorb,40
+Volbeat,Illuminate,1
+Volbeat,Oblivious,1
+Volbeat,Confidence,20
+Volbeat,Swarm,20
+Volbeat,Prankster,40
+Illumise,Oblivious,1
+Illumise,Tinted Lens,1
+Illumise,Aroma Veil,20
+Illumise,Swarm,20
+Illumise,Prankster,40
+Lunatone,Levitate,1
+Lunatone,Ice Body,20
+Lunatone,Magic Guard,20
+Lunatone,Telepathy,20
+Lunatone,Starlight,40
+Solrock,Levitate,1
+Solrock,Solar Power,20
+Solrock,Magic Guard,20
+Solrock,Telepathy,20
+Solrock,Sunglow,40
+Throh,Guts,1
+Throh,Inner Focus,1
+Throh,Mold Breaker,20
+Throh,Discipline,20
+Throh,Thrust,40
+Sawk,Sturdy,1
+Sawk,Inner Focus,1
+Sawk,Mold Breaker,20
+Sawk,Discipline,20
+Sawk,Bodyguard,40
+Ditto,Impostor,1
+Ditto,Limber,1
+Ditto,Sticky Hold,20
+Ditto,Discipline,20
+Ditto,Sturdy,40
+Unown,Levitate,1
+Unown,Forewarn,20
+Unown,Telepathy,20
+Unown,Anticipation,20
+Unown,Keen Eye,40
+Eevee,Run Away,1
+Eevee,Sprint,1
+Eevee,Adaptability,20
+Eevee,Anticipation,20
+Eevee,Celebrate,40
+Vaporeon,Water Absorb,1
+Vaporeon,Swift Swim,1
+Vaporeon,Aqua Boost,20
+Vaporeon,Hydration,20
+Vaporeon,Wash Away,40
+Jolteon,Volt Absorb,1
+Jolteon,Sprint,1
+Jolteon,Thunder Boost,20
+Jolteon,Quick Feet,20
+Jolteon,Vanguard,40
+Flareon,Flash Fire,1
+Flareon,Flame Body,1
+Flareon,Ignition Boost,20
+Flareon,Defiant,20
+Flareon,Guts,40
+Espeon,Synchronize,1
+Espeon,Trace,1
+Espeon,Telepathy,20
+Espeon,Forewarn,20
+Espeon,Magic Bounce,40
+Umbreon,Synchronize,1
+Umbreon,Pressure,1
+Umbreon,Inner Focus,20
+Umbreon,Shackle,20
+Umbreon,Ambush,40
+Leafeon,Leaf Guard,1
+Leafeon,Grass Pelt,1
+Leafeon,Chlorophyll,20
+Leafeon,Photosynthesis,20
+Leafeon,Life Force,40
+Glaceon,Snow Cloak,1
+Glaceon,Covert,1
+Glaceon,Ice Body,20
+Glaceon,Winter's Kiss,20
+Glaceon,Frostbite,40
+Omanyte,Shell Armor,1
+Omanyte,Shell Shield,1
+Omanyte,Rough Skin,20
+Omanyte,Weak Armor,20
+Omanyte,Skill Link,40
+Omastar,Shell Armor,1
+Omastar,Shell Shield,1
+Omastar,Rough Skin,20
+Omastar,Weak Armor,20
+Omastar,Skill Link,40
+Kabuto,Battle Armor,1
+Kabuto,Sturdy,1
+Kabuto,Swift Swim,20
+Kabuto,Wave Rider,20
+Kabuto,Weak Armor,40
+Kabutops,Battle Armor,1
+Kabutops,Sturdy,1
+Kabutops,Swift Swim,20
+Kabutops,Wave Rider,20
+Kabutops,Weak Armor,40
+Lileep,Suction Cups,1
+Lileep,Sticky Hold,1
+Lileep,Storm Drain,20
+Lileep,Water Absorb,20
+Lileep,Regenerator,40
+Cradily,Suction Cups,1
+Cradily,Sticky Hold,1
+Cradily,Storm Drain,20
+Cradily,Water Absorb,20
+Cradily,Regenerator,40
+Anorith,Battle Armor,1
+Anorith,Sturdy,1
+Anorith,Swift Swim,20
+Anorith,Overcoat,20
+Anorith,Rough Skin,40
+Armaldo,Battle Armor,1
+Armaldo,Sturdy,1
+Armaldo,Swift Swim,20
+Armaldo,Overcoat,20
+Armaldo,Rough Skin,40
+Cranidos,Mold Breaker,1
+Cranidos,Rock Head,1
+Cranidos,Run Up,20
+Cranidos,Sprint,20
+Cranidos,Sheer Force,40
+Rampardos,Mold Breaker,1
+Rampardos,Rock Head,1
+Rampardos,Run Up,20
+Rampardos,Sprint,20
+Rampardos,Sheer Force,40
+Shieldon,Sturdy,1
+Shieldon,Rock Head,1
+Shieldon,Bodyguard,20
+Shieldon,Soundproof,20
+Shieldon,Vigor,40
+Bastiodon,Sturdy,1
+Bastiodon,Rock Head,1
+Bastiodon,Bodyguard,20
+Bastiodon,Soundproof,20
+Bastiodon,Vigor,40
+Tirtouga,Solid Rock,1
+Tirtouga,Sturdy,1
+Tirtouga,Shell Armor,20
+Tirtouga,Swift Swim,20
+Tirtouga,Wave Rider,40
+Carracosta,Solid Rock,1
+Carracosta,Sturdy,1
+Carracosta,Shell Armor,20
+Carracosta,Swift Swim,20
+Carracosta,Tough Claws,40
+Archen,Defeatist,1
+Archen,Rattled,20
+Archen,Early Bird,20
+Archen,Dodge,20
+Archen,Conqueror,40
+Archeops,Defeatist,1
+Archeops,Rattled,20
+Archeops,Early Bird,20
+Archeops,Dodge,20
+Archeops,Conqueror,40
+Aerodactyl,Frighten,1
+Aerodactyl,Unnerve,1
+Aerodactyl,Cruelty,20
+Aerodactyl,Rock Head,20
+Aerodactyl,Pressure,40
+Dratini,Shed Skin,1
+Dratini,Marvel Scale,20
+Dratini,Gulp,20
+Dratini,Swift Swim,20
+Dratini,Confidence,40
+Dragonair,Shed Skin,1
+Dragonair,Marvel Scale,20
+Dragonair,Air Lock,20
+Dragonair,Gentle Vibe,20
+Dragonair,Confidence,40
+Dragonite,Inner Focus,1
+Dragonite,Multiscale,20
+Dragonite,Courage,20
+Dragonite,Rocket,20
+Dragonite,Confidence,40
+Larvitar,Guts,1
+Larvitar,Battle Armor,20
+Larvitar,Sand Veil,20
+Larvitar,Gluttony,20
+Larvitar,Unnerve,40
+Pupitar,Shed Skin,1
+Pupitar,Battle Armor,20
+Pupitar,Sand Veil,20
+Pupitar,Deep Sleep,20
+Pupitar,Unnerve,40
+Tyranitar,Guts,1
+Tyranitar,Battle Armor,20
+Tyranitar,Sand Stream,20
+Tyranitar,Enduring Rage,20
+Tyranitar,Unnerve,40
+Bagon,Steadfast,1
+Bagon,Moxie,20
+Bagon,Sheer Force,20
+Bagon,Sturdy,20
+Bagon,Rock Head,40
+Shelgon,Overcoat,1
+Shelgon,Moxie,20
+Shelgon,Sheer Force,20
+Shelgon,Sturdy,20
+Shelgon,Rock Head,40
+Salamence,Intimidate,1
+Salamence,Moxie,20
+Salamence,Sheer Force,20
+Salamence,Rocket,20
+Salamence,Rock Head,40
+Beldum,Clear Body,1
+Beldum,Light Metal,20
+Beldum,Run Up,20
+Beldum,Klutz,20
+Beldum,Thrust,40
+Metang,Clear Body,1
+Metang,Light Metal,20
+Metang,Cluster Mind,20
+Metang,Telepathy,20
+Metang,Thrust,40
+Metagross,Clear Body,1
+Metagross,Light Metal,20
+Metagross,Cluster Mind,20
+Metagross,Telepathy,20
+Metagross,Thrust,40
+Gible,Sand Veil,1
+Gible,Frighten,20
+Gible,Rough Skin,20
+Gible,Vital Spirit,20
+Gible,Intimidate,40
+Gabite,Sand Veil,1
+Gabite,Frighten,20
+Gabite,Rough Skin,20
+Gabite,Vital Spirit,20
+Gabite,Intimidate,40
+Garchomp,Sand Veil,1
+Garchomp,Frighten,20
+Garchomp,Rough Skin,20
+Garchomp,Vital Spirit,20
+Garchomp,Intimidate,40
+Deino,Hustle,1
+Deino,Guts,20
+Deino,Celebrate,20
+Deino,Instinct,20
+Deino,Bully,40
+Zweilous,Hustle,1
+Zweilous,Guts,20
+Zweilous,Polycephaly,20
+Zweilous,Instinct,20
+Zweilous,Bully,40
+Hydreigon,Levitate,1
+Hydreigon,Pride,20
+Hydreigon,Polycephaly,20
+Hydreigon,Instinct,20
+Hydreigon,Twisted Power,40
+Chespin,Bulletproof,1
+Chespin,Battle Armor,1
+Chespin,Bodyguard,20
+Chespin,Discipline,20
+Chespin,Courage,40
+Quilladin,Bulletproof,1
+Quilladin,Battle Armor,1
+Quilladin,Bodyguard,20
+Quilladin,Discipline,20
+Quilladin,Courage,40
+Chesnaught,Bulletproof,1
+Chesnaught,Battle Armor,1
+Chesnaught,Bodyguard,20
+Chesnaught,Discipline,20
+Chesnaught,Courage,40
+Fennekin,Forewarn,1
+Fennekin,Omen,1
+Fennekin,Magician,20
+Fennekin,Fox Fire,20
+Fennekin,Courage,40
+Braixen,Forewarn,1
+Braixen,Omen,1
+Braixen,Magician,20
+Braixen,Fox Fire,20
+Braixen,Courage,40
+Delphox,Forewarn,1
+Delphox,Omen,1
+Delphox,Magician,20
+Delphox,Fox Fire,20
+Delphox,Courage,40
+Froakie,Mud Dweller,1
+Froakie,Wash Away,1
+Froakie,Protean,20
+Froakie,Hydration,20
+Froakie,Courage,40
+Frogadier,Mud Dweller,1
+Frogadier,Wash Away,1
+Frogadier,Protean,20
+Frogadier,Hydration,20
+Frogadier,Courage,40
+Greninja,Mud Dweller,1
+Greninja,Wash Away,1
+Greninja,Protean,20
+Greninja,Infiltrator,20
+Greninja,Courage,40
+Bunnelby,Pickup,1
+Bunnelby,Lunchbox,1
+Bunnelby,Huge Power,20
+Bunnelby,Dig Away,40
+Diggersby,Pickup,1
+Diggersby,Lunchbox,1
+Diggersby,Huge Power,20
+Diggersby,Dig Away,40
+Fletchling,Big Pecks,1
+Fletchling,Tangled Feet,1
+Fletchling,Keen Eye,20
+Fletchling,Rocket,20
+Fletchling,Gale Wings,40
+Fletchinder,Big Pecks,1
+Fletchinder,Flame Body,1
+Fletchinder,Keen Eye,20
+Fletchinder,Rocket,20
+Fletchinder,Gale Wings,40
+Talonflame,Big Pecks,1
+Talonflame,Flame Body,1
+Talonflame,Keen Eye,20
+Talonflame,Rocket,20
+Talonflame,Gale Wings,40
+Scatterbug,Compound Eyes,1
+Scatterbug,Shield Dust,20
+Scatterbug,Friend Guard,20
+Scatterbug,Suction Cups,20
+Scatterbug,Effect Spore,40
+Spewpa,Compound Eyes,1
+Spewpa,Shed Skin,20
+Spewpa,Friend Guard,20
+Spewpa,Wonder Skin,20
+Spewpa,Effect Spore,40
+Vivillon,Compound Eyes,1
+Vivillon,Shield Dust,20
+Vivillon,Friend Guard,20
+Vivillon,Covert,20
+Vivillon,Effect Spore,40
+Litleo,Rivalry,1
+Litleo,Unnerve,1
+Litleo,Moxie,20
+Litleo,Intimidate,20
+Litleo,Pride,40
+Pyroar,Rivalry,1
+Pyroar,Unnerve,1
+Pyroar,Moxie,20
+Pyroar,Intimidate,20
+Pyroar,Pride,40
+Flabebe,Flower Veil,1
+Flabebe,Symbiosis,20
+Flabebe,Gardener,20
+Flabebe,Perception,20
+Flabebe,Flower Power,40
+Floette,Flower Veil,1
+Floette,Symbiosis,20
+Floette,Gardener,20
+Floette,Perception,20
+Floette,Flower Power,40
+Florges,Flower Veil,1
+Florges,Symbiosis,20
+Florges,Gardener,20
+Florges,Perception,20
+Florges,Flower Power,40
+Skiddo,Sap Sipper,1
+Skiddo,Photosynthesis,1
+Skiddo,Rock Head,20
+Skiddo,Grass Pelt,20
+Skiddo,Reckless,40
+Gogoat,Sap Sipper,1
+Gogoat,Photosynthesis,1
+Gogoat,Rock Head,20
+Gogoat,Grass Pelt,20
+Gogoat,Reckless,40
+Pancham,Iron Fist,1
+Pancham,Mold Breaker,1
+Pancham,Deep Sleep,20
+Pancham,Oblivious,20
+Pancham,Scrappy,40
+Pangoro,Iron Fist,1
+Pangoro,Mold Breaker,1
+Pangoro,Deep Sleep,20
+Pangoro,Oblivious,20
+Pangoro,Scrappy,40
+Furfrou,Fur Coat,1
+Furfrou,Beautiful,20
+Furfrou,Fabulous Trim,20
+Furfrou,Intimidate,20
+Furfrou,Bodyguard,40
+Espurr,Keen Eye,1
+Espurr,Infiltrator,1
+Espurr,Oblivious,20
+Espurr,Own Tempo,20
+Espurr,Telepathy,40
+Meowstic,Keen Eye,1
+Meowstic,Infiltrator,1
+Meowstic,Prankster,20
+Meowstic,Competitive,20
+Meowstic,Own Tempo,20
+Meowstic,Telepathy,40
+Honedge,No Guard,1
+Honedge,Hyper Cutter,20
+Honedge,Stall,20
+Honedge,Weaponize,20
+Honedge,Soulstealer,40
+Doublade,No Guard,1
+Doublade,Hyper Cutter,20
+Doublade,Stall,20
+Doublade,Weaponize,20
+Doublade,Soulstealer,40
+Aegislash,Stance Change,1
+Aegislash,Hyper Cutter,20
+Aegislash,Stall,20
+Aegislash,Weaponize,20
+Aegislash,Soulstealer,40
+Spritzee,Healer,1
+Spritzee,Aroma Veil,20
+Spritzee,Blessed Touch,20
+Spritzee,Interference,20
+Spritzee,Confidence,40
+Aromatisse,Healer,1
+Aromatisse,Aroma Veil,20
+Aromatisse,Blessed Touch,20
+Aromatisse,Interference,20
+Aromatisse,Confidence,40
+Swirlix,Sweet Veil,1
+Swirlix,Frisk,20
+Swirlix,Lunchbox,20
+Swirlix,Unburden,20
+Swirlix,Instinct,40
+Slurpuff,Sweet Veil,1
+Slurpuff,Frisk,20
+Slurpuff,Lunchbox,20
+Slurpuff,Unburden,20
+Slurpuff,Instinct,40
+Inkay,Contrary,1
+Inkay,Suction Cups,1
+Inkay,Infiltrator,20
+Inkay,Memory Wipe,20
+Inkay,Hypnotic,40
+Malamar,Contrary,1
+Malamar,Suction Cups,1
+Malamar,Infiltrator,20
+Malamar,Memory Wipe,20
+Malamar,Hypnotic,40
+Binacle,Tough Claws,1
+Binacle,Sniper,1
+Binacle,Cluster Mind,20
+Binacle,Pickpocket,20
+Binacle,Vicious,40
+Barbaracle,Tough Claws,1
+Barbaracle,Sniper,1
+Barbaracle,Cluster Mind,20
+Barbaracle,Pickpocket,20
+Barbaracle,Vicious,40
+Skrelp,Poison Point,1
+Skrelp,Poison Touch,1
+Skrelp,Adaptability,20
+Skrelp,Analytic,20
+Skrelp,Corrosive Toxins,40
+Dragalge,Poison Point,1
+Dragalge,Poison Touch,1
+Dragalge,Adaptability,20
+Dragalge,Analytic,20
+Dragalge,Corrosive Toxins,40
+Clauncher,Shell Armor,1
+Clauncher,Sniper,20
+Clauncher,Gulp,20
+Clauncher,Mega Launcher,40
+Clawitzer,Shell Armor,1
+Clawitzer,Sniper,20
+Clawitzer,Gulp,20
+Clawitzer,Mega Launcher,40
+Helioptile,Dry Skin,1
+Helioptile,Electrodash,20
+Helioptile,Sand Veil,20
+Helioptile,Solar Power,20
+Helioptile,Sunglow,40
+Heliolisk,Dry Skin,1
+Heliolisk,Electrodash,20
+Heliolisk,Sand Veil,20
+Heliolisk,Solar Power,20
+Heliolisk,Sunglow,40
+Tyrunt,Run Up,1
+Tyrunt,Hyper Cutter,1
+Tyrunt,Rock Head,20
+Tyrunt,Strong Jaw,20
+Tyrunt,Moxie,40
+Tyrantrum,Run Up,1
+Tyrantrum,Hyper Cutter,1
+Tyrantrum,Rock Head,20
+Tyrantrum,Strong Jaw,20
+Tyrantrum,Moxie,40
+Amaura,Ice Shield,1
+Amaura,Solid Rock,1
+Amaura,Ice Body,20
+Amaura,Refrigerate,20
+Amaura,Snow Warning,40
+Aurorus,Ice Shield,1
+Aurorus,Solid Rock,1
+Aurorus,Ice Body,20
+Aurorus,Refrigerate,20
+Aurorus,Snow Warning,40
+Sylveon,Cute Charm,1
+Sylveon,Gentle Vibe,1
+Sylveon,Pixilate,20
+Sylveon,Friend Guard,20
+Sylveon,Celebrate,40
+Hawlucha,Limber,1
+Hawlucha,Unburden,1
+Hawlucha,Hustle,20
+Hawlucha,Keen Eye,20
+Hawlucha,Mold Breaker,40
+Dedenne,Lunchbox,1
+Dedenne,Pickup,1
+Dedenne,Plus,20
+Dedenne,Sequence,20
+Dedenne,Cute Charm,40
+Carbink,Clear Body,1
+Carbink,Simple,20
+Carbink,Solid Rock,20
+Carbink,Sturdy,20
+Carbink,Filter,40
+Goomy,Sap Sipper,1
+Goomy,Dry Skin,1
+Goomy,Hydration,20
+Goomy,Gooey,20
+Goomy,Absorb Force,40
+Sliggoo,Sap Sipper,1
+Sliggoo,Dry Skin,1
+Sliggoo,Hydration,20
+Sliggoo,Gooey,20
+Sliggoo,Absorb Force,40
+Goodra,Sap Sipper,1
+Goodra,Dry Skin,1
+Goodra,Hydration,20
+Goodra,Gooey,20
+Goodra,Absorb Force,40
+Klefki,Prankster,1
+Klefki,Magician,20
+Klefki,Pickup,20
+Klefki,Infiltrator,40
+Phantump,Natural Cure,1
+Phantump,Frisk,1
+Phantump,Harvest,20
+Phantump,Life Force,20
+Phantump,Leaf Guard,40
+Trevenant,Natural Cure,1
+Trevenant,Frisk,1
+Trevenant,Harvest,20
+Trevenant,Forest Lord,20
+Trevenant,Leaf Guard,40
+Pumpkaboo,Pickup,1
+Pumpkaboo,Frisk,1
+Pumpkaboo,Insomnia,20
+Pumpkaboo,Life Force,20
+Pumpkaboo,Flash Fire,40
+Gourgeist,Pickup,1
+Gourgeist,Frisk,1
+Gourgeist,Insomnia,20
+Gourgeist,Pumpkingrab,20
+Gourgeist,Flash Fire,40
+Bergmite,Sturdy,1
+Bergmite,Winter's Kiss,1
+Bergmite,Ice Body,20
+Bergmite,Own Tempo,20
+Bergmite,Permafrost,40
+Avalugg,Sturdy,1
+Avalugg,Winter's Kiss,1
+Avalugg,Ice Body,20
+Avalugg,Own Tempo,20
+Avalugg,Permafrost,40
+Noibat,Frisk,1
+Noibat,Infiltrator,1
+Noibat,Telepathy,20
+Noibat,Instinct,20
+Noibat,Sound Lance,40
+Noivern,Frisk,1
+Noivern,Infiltrator,1
+Noivern,Telepathy,20
+Noivern,Instinct,20
+Noivern,Sound Lance,40
+Xerneas,Fairy Aura,1
+Xerneas,Magic Guard,20
+Xerneas,Pressure,20
+Xerneas,Wonder Skin,20
+Xerneas,Life Force,40
+Yveltal,Dark Aura,1
+Yveltal,Cruelty,20
+Yveltal,Pressure,20
+Yveltal,Shackle,20
+Yveltal,Soulstealer,40
+Zygarde,Aura Break,1
+Zygarde,Interference,20
+Zygarde,Air Lock,20
+Zygarde,Filter,20
+Zygarde,Pressure,40
+Mew,Synchronize,1
+Mew,Serene Grace,1
+Mew,Exploit,20
+Mew,Magic Guard,20
+Mew,Magic Bounce,40
+Mewtwo,Pressure,1
+Mewtwo,Unnerve,1
+Mewtwo,Frighten,20
+Mewtwo,Telepathy,20
+Mewtwo,Memory Wipe,40
+Genesect,Download,1
+Genesect,Infiltrator,20
+Genesect,Pressure,20
+Genesect,Targeting System,20
+Genesect,Analytic,40
+Heatran,Flash Fire,1
+Heatran,Flame Body,20
+Heatran,Magma Armor,20
+Heatran,Thermosensitive,40
+Articuno,Pressure,1
+Articuno,Winter's Kiss,1
+Articuno,Snow Warning,20
+Articuno,Snow Cloak,20
+Articuno,Frostbite,40
+Zapdos,Pressure,1
+Zapdos,Lightning Rod,1
+Zapdos,Drizzle,20
+Zapdos,Keen Eye,20
+Zapdos,Sequence,40
+Moltres,Pressure,1
+Moltres,Flash Fire,1
+Moltres,Drought,20
+Moltres,Flame Body,20
+Moltres,White Flame,40
+Raikou,Pressure,1
+Raikou,Volt Absorb,1
+Raikou,Sprint,20
+Raikou,Run Away,20
+Raikou,Speed Boost,40
+Entei,Pressure,1
+Entei,Flash Fire,1
+Entei,Sprint,20
+Entei,Run Away,20
+Entei,Speed Boost,40
+Suicune,Pressure,1
+Suicune,Water Absorb,1
+Suicune,Sprint,20
+Suicune,Run Away,20
+Suicune,Speed Boost,40
+Regirock,Clear Body,1
+Regirock,Sturdy,20
+Regirock,Battle Armor,20
+Regirock,Adaptability,40
+Regice,Clear Body,1
+Regice,Ice Body,20
+Regice,Battle Armor,20
+Regice,Adaptability,40
+Registeel,Clear Body,1
+Registeel,Light Metal,20
+Registeel,Battle Armor,20
+Registeel,Adaptability,40
+Regigigas,Clear Body,1
+Regigigas,Slow Start,20
+Regigigas,Battle Armor,20
+Regigigas,Adaptability,40
+Cobalion,Justified,1
+Cobalion,Sprint,20
+Cobalion,Inner Focus,20
+Cobalion,Discipline,20
+Cobalion,Courage,40
+Terrakion,Justified,1
+Terrakion,Sprint,20
+Terrakion,Inner Focus,20
+Terrakion,Discipline,20
+Terrakion,Courage,40
+Virizion,Justified,1
+Virizion,Sprint,20
+Virizion,Inner Focus,20
+Virizion,Discipline,20
+Virizion,Courage,40
+Keldeo,Justified,1
+Keldeo,Sprint,20
+Keldeo,Inner Focus,20
+Keldeo,Discipline,20
+Keldeo,Courage,40
+Uxie,Levitate,1
+Uxie,Forewarn,20
+Uxie,Anticipation,20
+Uxie,Telepathy,40
+Mesprit,Levitate,1
+Mesprit,Gentle Vibe,20
+Mesprit,Healer,20
+Mesprit,Telepathy,40
+Azelf,Levitate,1
+Azelf,Inner Focus,20
+Azelf,Own Tempo,20
+Azelf,Telepathy,40
+Tornadus,Prankster,1
+Tornadus,Frisk,20
+Tornadus,Pride,20
+Tornadus,Drizzle,40
+Thundurus,Prankster,1
+Thundurus,Frisk,20
+Thundurus,Pride,20
+Thundurus,Drizzle,40
+Landorus,Intimidate,1
+Landorus,Frisk,20
+Landorus,Defiant,20
+Landorus,Healer,40
+Lugia,Pressure,1
+Lugia,Multiscale,20
+Lugia,Gulp,20
+Lugia,Life Force,40
+Ho-oh,Pressure,1
+Ho-oh,Regenerator,20
+Ho-oh,Sun Blanket,20
+Ho-oh,Life Force,40
+Latias,Levitate,1
+Latias,Rocket,20
+Latias,Keen Eye,20
+Latias,Speed Boost,40
+Latios,Levitate,1
+Latios,Rocket,20
+Latios,Keen Eye,20
+Latios,Speed Boost,40
+Phione,Hydration,1
+Phione,Rain Dish,1
+Phione,Swift Swim,20
+Phione,Gulp,20
+Phione,Damp,40
+Manaphy,Hydration,1
+Manaphy,Rain Dish,1
+Manaphy,Swift Swim,20
+Manaphy,Gulp,20
+Manaphy,Damp,40
+Celebi,Natural Cure,1
+Celebi,Magic Guard,20
+Celebi,Probability Control,20
+Celebi,Healer,40
+Jirachi,Serene Grace,1
+Jirachi,Wishmaster,20
+Jirachi,Deep Sleep,20
+Jirachi,Wonder Skin,40
+Victini,Victory Star,1
+Victini,Gluttony,20
+Victini,Flash Fire,20
+Victini,Defiant,40
+Shaymin,Natural Cure,1
+Shaymin,Magic Guard,20
+Shaymin,Photosynthesis,20
+Shaymin,Leaf Guard,40
+Meloetta,Serene Grace,1
+Meloetta,Soundproof,20
+Meloetta,Drown Out,20
+Meloetta,Own Tempo,40
+Deoxys,Pressure,1
+Deoxys,Download,20
+Deoxys,Telepathy,20
+Deoxys,Transporter,40
+Darkrai,Bad Dreams,1
+Darkrai,Insomnia,20
+Darkrai,Dreamspinner,20
+Darkrai,Daze,40
+Cresselia,Levitate,1
+Cresselia,Serene Grace,20
+Cresselia,Telepathy,20
+Cresselia,Magic Bounce,40
+Kyogre,Drizzle,1
+Kyogre,Hydration,20
+Kyogre,Swift Swim,20
+Kyogre,Gulp,40
+Groudon,Drought,1
+Groudon,Solar Power,20
+Groudon,Sun Blanket,20
+Groudon,Sand Force,40
+Rayquaza,Air Lock,1
+Rayquaza,Marvel Scale,20
+Rayquaza,Rocket,20
+Rayquaza,Pressure,40
+Reshiram,Turboblaze,1
+Reshiram,Flash Fire,20
+Reshiram,Sun Blanket,20
+Reshiram,Inner Focus,40
+Zekrom,Teravolt,1
+Zekrom,Motor Drive,20
+Zekrom,Hydration,20
+Zekrom,Inner Focus,40
+Kyurem,Pressure,1
+Kyurem,Winter's Kiss,20
+Kyurem,Snow Cloak,20
+Kyurem,Inner Focus,40
+Dialga,Probability Control,1
+Dialga,Synchronize,20
+Dialga,Telepathy,20
+Dialga,Heavy Metal,40
+Palkia,Transporter,1
+Palkia,Synchronize,20
+Palkia,Telepathy,20
+Palkia,Gulp,40
+Giratina,Levitate,1
+Giratina,Synchronize,20
+Giratina,Telepathy,20
+Giratina,Cursed Body,40
+Arceus,Multitype,1
+Arceus,Magic Guard,20
+Arceus,Pressure,20
+Arceus,Adaptability,40

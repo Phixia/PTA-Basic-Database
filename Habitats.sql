@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS "Habitats";
+CREATE TABLE Habitats (HabitatID INTEGER PRIMARY KEY, Type TEXT);
+INSERT INTO "Habitats" VALUES(1,'Arctic');
+INSERT INTO "Habitats" VALUES(2,'Beach');
+INSERT INTO "Habitats" VALUES(3,'Cave');
+INSERT INTO "Habitats" VALUES(4,'Desert');
+INSERT INTO "Habitats" VALUES(5,'Forest');
+INSERT INTO "Habitats" VALUES(6,'Freshwater');
+INSERT INTO "Habitats" VALUES(7,'Grassland');
+INSERT INTO "Habitats" VALUES(8,'Marsh');
+INSERT INTO "Habitats" VALUES(9,'Mountain');
+INSERT INTO "Habitats" VALUES(10,'Ocean');
+INSERT INTO "Habitats" VALUES(11,'Rainforest');
+INSERT INTO "Habitats" VALUES(12,'Taiga');
+INSERT INTO "Habitats" VALUES(13,'Tundra');
+INSERT INTO "Habitats" VALUES(14,'Urban');
