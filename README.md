@@ -1,13 +1,9 @@
-# PTU-Basic-Database
-**Currently on PTU v1.4**
+# PTA-Basic-Database
+**Currently on PTA ORAS**
 
-A grouping of SQLite database commands to build and populate the foundation of [Pokemon Tabletop United](http://forums.pokemontabletop.com/forum/3848682/), this git contains .sql files which contain all the commands needed to build the **basic** database I use, along with .csv files for easier viewing of the data. I've also included an entity relationship diagram for it.
+A grouping of SQLite database commands to build and populate the foundation of [Pokemon Tabletop Adventure](http://forums.pokemontabletop.com/forum/30012377/), this git contains .sql files which contain all the commands needed to build the **basic** database. This has been forked from https://github.com/PanoramicPanda/PTU-Basic-Database
 
-Feel free to make updates, just make sure to describe in your commit what you are updating, and for what **version** of PTU. This was built for **v1.4**, and is a bit out of date, so updates are greatly appreciated.
-
-Please try to update both the .sql and the .csv files whenever you make an update, **however you can update just the .csv and I can make the requisite change in the .sql file.**
-
-If you think a table needs added or restructred, please, talk to me and we'll see what we can do! :D
+Credit goes to PanoramicPanda!
 
 ##Tables
 
